@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/priceozon-anastasia.xml",
+      "destination": "/priceozon-anastasia.xml"
+    }
+  ]
+}
