@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-05-02 16:48">
+<yml_catalog date="2025-05-02 17:48">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250">
-<price>383</price>
+<price>374</price>
 </offer>
 <offer id="01-ГУМ-КАЛ-500">
-<price>447</price>
+<price>437</price>
 </offer>
 <offer id="01-ГУМ-КАЛ-1000">
-<price>508</price>
+<price>453</price>
 </offer>
 <offer id="03-ГУМ-КАЛ-10ГР">
-<price>238</price>
+<price>233</price>
 </offer>
 <offer id="05-ГУМ-КАЛ-10ГР">
-<price>288</price>
+<price>282</price>
 </offer>
 <offer id="10-ГУМ-КАЛ-10ГР">
-<price>487</price>
+<price>477</price>
 </offer>
 <offer id="01-ТОРНАДО-1000">
-<price>3089</price>
+<price>3022</price>
 </offer>
 <offer id="05-ЯНТ-КИС-2ГР">
-<price>288</price>
+<price>282</price>
 </offer>
 <offer id="10-ЯНТ-КИС-2ГР">
-<price>487</price>
+<price>477</price>
 </offer>
 <offer id="05-БОР-КИС-10ГР">
-<price>362</price>
+<price>354</price>
 </offer>
 <offer id="10-БОР-КИС-10ГР">
-<price>487</price>
+<price>477</price>
 </offer>
 <offer id="01-ДЕГОТЬ-100">
-<price>365</price>
+<price>357</price>
 </offer>
 <offer id="05-ДЕГОТЬ-100">
-<price>1247</price>
+<price>1220</price>
 </offer>
 </offers>
 </shop>
