@@ -1,45 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-05-08 20:48">
+<yml_catalog date="2025-05-08 21:48">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250">
-<price>374</price>
+<price>325</price>
 </offer>
 <offer id="01-ГУМ-КАЛ-500">
-<price>437</price>
+<price>380</price>
 </offer>
 <offer id="01-ГУМ-КАЛ-1000">
-<price>570</price>
+<price>621</price>
 </offer>
 <offer id="03-ГУМ-КАЛ-10ГР">
-<price>293</price>
+<price>320</price>
 </offer>
 <offer id="05-ГУМ-КАЛ-10ГР">
-<price>355</price>
+<price>387</price>
 </offer>
 <offer id="10-ГУМ-КАЛ-10ГР">
-<price>600</price>
+<price>654</price>
 </offer>
 <offer id="01-ТОРНАДО-1000">
-<price>3010</price>
+<price>2650</price>
 </offer>
 <offer id="05-ЯНТ-КИС-2ГР">
-<price>355</price>
+<price>387</price>
 </offer>
 <offer id="10-ЯНТ-КИС-2ГР">
-<price>600</price>
+<price>654</price>
 </offer>
 <offer id="05-БОР-КИС-10ГР">
-<price>354</price>
+<price>307</price>
 </offer>
 <offer id="10-БОР-КИС-10ГР">
-<price>477</price>
+<price>414</price>
 </offer>
 <offer id="01-ДЕГОТЬ-100">
-<price>357</price>
+<price>310</price>
 </offer>
 <offer id="05-ДЕГОТЬ-100">
-<price>1220</price>
+<price>1059</price>
+</offer>
+<offer id="15-АКТ-4Г">
+<price>1276</price>
+</offer>
+<offer id="10-АКТ-4Г">
+<price>1002</price>
+</offer>
+<offer id="03-АКТ-4Г">
+<price>619</price>
+</offer>
+<offer id="20-АКТ-4Г">
+<price>1549</price>
+</offer>
+<offer id="01-АЛФ-КРОТ-10">
+<price>328</price>
+</offer>
+<offer id="01-АЛФ-КРОТ-3">
+<price>221</price>
+</offer>
+<offer id="02-АЛФ-КРОТ-3">
+<price>310</price>
+</offer>
+<offer id="02-ГУМ-КАЛ-1000">
+<price>608</price>
+</offer>
+<offer id="01-РАУ-АП-500">
+<price>795</price>
+</offer>
+<offer id="01-РАУ-АП-1000">
+<price>1251</price>
+</offer>
+<offer id="01-УРАГАН-100">
+<price>642</price>
+</offer>
+<offer id="01-УРАГАН-300">
+<price>906</price>
+</offer>
+<offer id="01-УРАГАН-50">
+<price>611</price>
+</offer>
+<offer id="01-РАУ-АП-ЭКС-1000">
+<price>1178</price>
+</offer>
+<offer id="01-УРАГАН-500-НОВЫЙ">
+<price>888</price>
+</offer>
+<offer id="01-УРАГАН-1000-НОВЫЙ">
+<price>1125</price>
+</offer>
+<offer id="01-РАУ-АП-ЭКС-50">
+<price>883</price>
+</offer>
+<offer id="01-РАУ-АП-ЭКС-500">
+<price>884</price>
+</offer>
+<offer id="01-РАУ-АП-ЭКС-100">
+<price>968</price>
+</offer>
+<offer id="01-УРАГАН-500-СТАР">
+<price>1245</price>
+</offer>
+<offer id="01-УРАГАН-1000-СТАР">
+<price>1638</price>
+</offer>
+<offer id="05-ФУНДАЗОЛ-10ГР">
+<price>1310</price>
+</offer>
+<offer id="10-ФУНДАЗОЛ-10ГР">
+<price>2165</price>
+</offer>
+<offer id="03-ФУНДАЗОЛ-10ГР">
+<price>968</price>
 </offer>
 </offers>
 </shop>
