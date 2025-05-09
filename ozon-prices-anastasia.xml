@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-05-09 16:48">
+<yml_catalog date="2025-05-09 17:48">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250">
@@ -112,6 +112,9 @@
 </offer>
 <offer id="03-ФУНДАЗОЛ-10ГР">
 <price>985</price>
+</offer>
+<offer id="02-РАУ-АП-ЭКС-500">
+<price>1455</price>
 </offer>
 </offers>
 </shop>
