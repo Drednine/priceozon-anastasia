@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-05-09 11:48">
+<yml_catalog date="2025-05-09 12:48">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250">
@@ -21,7 +21,7 @@
 <price>654</price>
 </offer>
 <offer id="01-ТОРНАДО-1000">
-<price>2744</price>
+<price>2762</price>
 </offer>
 <offer id="05-ЯНТ-КИС-2ГР">
 <price>387</price>
@@ -54,64 +54,64 @@
 <price>608</price>
 </offer>
 <offer id="01-РАУ-АП-500">
-<price>824</price>
+<price>841</price>
 </offer>
 <offer id="01-РАУ-АП-1000">
-<price>1413</price>
+<price>1439</price>
 </offer>
 <offer id="01-УРАГАН-100">
-<price>664</price>
+<price>682</price>
 </offer>
 <offer id="01-УРАГАН-300">
-<price>939</price>
+<price>956</price>
 </offer>
 <offer id="01-УРАГАН-50">
-<price>632</price>
+<price>650</price>
 </offer>
 <offer id="01-РАУ-АП-ЭКС-1000">
-<price>1220</price>
+<price>1238</price>
 </offer>
 <offer id="01-УРАГАН-500-НОВЫЙ">
-<price>919</price>
+<price>937</price>
 </offer>
 <offer id="01-УРАГАН-1000-НОВЫЙ">
-<price>1165</price>
+<price>1183</price>
 </offer>
 <offer id="15-АКТ-4Г">
-<price>1321</price>
+<price>1339</price>
 </offer>
 <offer id="10-АКТ-4Г">
-<price>1038</price>
+<price>1055</price>
 </offer>
 <offer id="03-АКТ-4Г">
-<price>641</price>
+<price>659</price>
 </offer>
 <offer id="20-АКТ-4Г">
-<price>1604</price>
+<price>1622</price>
 </offer>
 <offer id="01-РАУ-АП-ЭКС-50">
-<price>914</price>
+<price>931</price>
 </offer>
 <offer id="01-РАУ-АП-ЭКС-500">
-<price>916</price>
+<price>933</price>
 </offer>
 <offer id="01-РАУ-АП-ЭКС-100">
-<price>1002</price>
+<price>1020</price>
 </offer>
 <offer id="01-УРАГАН-500-СТАР">
-<price>1289</price>
+<price>1307</price>
 </offer>
 <offer id="01-УРАГАН-1000-СТАР">
-<price>1696</price>
+<price>1714</price>
 </offer>
 <offer id="05-ФУНДАЗОЛ-10ГР">
-<price>1356</price>
+<price>1374</price>
 </offer>
 <offer id="10-ФУНДАЗОЛ-10ГР">
-<price>2241</price>
+<price>2259</price>
 </offer>
 <offer id="03-ФУНДАЗОЛ-10ГР">
-<price>1002</price>
+<price>1020</price>
 </offer>
 </offers>
 </shop>
