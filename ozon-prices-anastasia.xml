@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-05-17 16:17">
+<yml_catalog date="2025-05-17 16:32">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -53,12 +53,6 @@
 <offer id="02-ГУМ-КАЛ-1000-РАВ">
 <price>608</price>
 </offer>
-<offer id="01-РАУ-АП-500-РАВ">
-<price>812</price>
-</offer>
-<offer id="01-РАУ-АП-1000-РАВ">
-<price>948</price>
-</offer>
 <offer id="01-УРАГАН-100-РАВ">
 <price>659</price>
 </offer>
@@ -67,9 +61,6 @@
 </offer>
 <offer id="01-УРАГАН-50-РАВ">
 <price>628</price>
-</offer>
-<offer id="01-РАУ-АП-ЭКС-1000-РАВ">
-<price>1195</price>
 </offer>
 <offer id="01-УРАГАН-500-НОВЫЙ-РАВ">
 <price>905</price>
@@ -89,15 +80,6 @@
 <offer id="20-АКТ-4Г-РАВ">
 <price>1566</price>
 </offer>
-<offer id="01-РАУ-АП-ЭКС-50-РАВ">
-<price>900</price>
-</offer>
-<offer id="01-РАУ-АП-ЭКС-500-РАВ">
-<price>901</price>
-</offer>
-<offer id="01-РАУ-АП-ЭКС-100-РАВ">
-<price>985</price>
-</offer>
 <offer id="01-УРАГАН-500-СТАР-РАВ">
 <price>1262</price>
 </offer>
@@ -112,9 +94,6 @@
 </offer>
 <offer id="03-ФУНДАЗОЛ-10ГР-РАВ">
 <price>985</price>
-</offer>
-<offer id="02-РАУ-АП-ЭКС-500-РАВ">
-<price>1330</price>
 </offer>
 <offer id="01-ДАКФОСАЛ-10-РАВ">
 <price>328</price>
@@ -176,12 +155,6 @@
 <offer id="02-ГУМ-КАЛ-1000-САЛ">
 <price>608</price>
 </offer>
-<offer id="01-РАУ-АП-500-САЛ">
-<price>812</price>
-</offer>
-<offer id="01-РАУ-АП-1000-САЛ">
-<price>948</price>
-</offer>
 <offer id="01-УРАГАН-100-САЛ">
 <price>659</price>
 </offer>
@@ -190,9 +163,6 @@
 </offer>
 <offer id="01-УРАГАН-50-САЛ">
 <price>628</price>
-</offer>
-<offer id="01-РАУ-АП-ЭКС-1000-САЛ">
-<price>1195</price>
 </offer>
 <offer id="01-УРАГАН-500-НОВЫЙ-САЛ">
 <price>905</price>
@@ -212,15 +182,6 @@
 <offer id="20-АКТ-4Г-САЛ">
 <price>1566</price>
 </offer>
-<offer id="01-РАУ-АП-ЭКС-50-САЛ">
-<price>900</price>
-</offer>
-<offer id="01-РАУ-АП-ЭКС-500-САЛ">
-<price>901</price>
-</offer>
-<offer id="01-РАУ-АП-ЭКС-100-САЛ">
-<price>985</price>
-</offer>
 <offer id="01-УРАГАН-500-СТАР-САЛ">
 <price>1262</price>
 </offer>
@@ -235,9 +196,6 @@
 </offer>
 <offer id="03-ФУНДАЗОЛ-10ГР-САЛ">
 <price>985</price>
-</offer>
-<offer id="02-РАУ-АП-ЭКС-500-САЛ">
-<price>1330</price>
 </offer>
 <offer id="01-ДАКФОСАЛ-10-САЛ">
 <price>387</price>
@@ -259,15 +217,6 @@
 </offer>
 <offer id="02-УРАГАН-500-НОВЫЙ-РАВ">
 <price>1337</price>
-</offer>
-<offer id="02-РАУ-АП-ЭКС-1000-РАВ">
-<price>1918</price>
-</offer>
-<offer id="02-РАУ-АП-1000-РАВ">
-<price>1423</price>
-</offer>
-<offer id="02-РАУ-АП-500-РАВ">
-<price>1153</price>
 </offer>
 </offers>
 </shop>
