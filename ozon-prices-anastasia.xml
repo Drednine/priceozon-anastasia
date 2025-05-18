@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-05-18 18:32">
+<yml_catalog date="2025-05-18 18:47">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -42,13 +42,13 @@
 <price>1247</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-10-РАВ">
-<price>502</price>
+<price>382</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-3-РАВ">
-<price>338</price>
+<price>257</price>
 </offer>
 <offer id="02-АЛФ-КРОТ-3-РАВ">
-<price>476</price>
+<price>362</price>
 </offer>
 <offer id="02-ГУМ-КАЛ-1000-РАВ">
 <price>716</price>
@@ -248,8 +248,11 @@
 <offer id="01-ДАКФОСАЛ-6-САЛ">
 <price>369</price>
 </offer>
+<offer id="03-АЛФ-КРОТ-10-РАВ">
+<price>910</price>
+</offer>
 <offer id="05-АЛФ-КРОТ-10-РАВ">
-<price>1801</price>
+<price>1369</price>
 </offer>
 <offer id="02-УРАГАН-1000-НОВЫЙ-РАВ">
 <price>2100</price>
@@ -271,6 +274,12 @@
 </offer>
 <offer id="03-РАУ-АП-ЭКС-100-САЛ">
 <price>767</price>
+</offer>
+<offer id="03-АЛФ-КРОТ-10-САЛ">
+<price>824</price>
+</offer>
+<offer id="05-АЛФ-КРОТ-10-САЛ">
+<price>1240</price>
 </offer>
 </offers>
 </shop>
