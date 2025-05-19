@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-05-19 17:32">
+<yml_catalog date="2025-05-19 17:43">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -47,10 +47,10 @@
 <offer id="01-АЛФ-КРОТ-3-РАВ">
 <price>269</price>
 </offer>
-<offer id="02-АЛФ-КРОТ-3-РАВ">
+<offer id="01-АЛФ-КРОТ-6-РАВ">
 <price>378</price>
 </offer>
-<offer id="02-ГУМ-КАЛ-1000-РАВ">
+<offer id="02-ГУМ-КАЛ-1000-2ШТ-РАВ">
 <price>749</price>
 </offer>
 <offer id="01-РАУ-АП-НОВЫЙ-500-РАВ">
@@ -113,7 +113,7 @@
 <offer id="03-ФУНДАЗОЛ-10ГР-РАВ">
 <price>653</price>
 </offer>
-<offer id="02-РАУ-АП-СТАРЫЙ-500-РАВ">
+<offer id="02-РАУ-АП-СТАРЫЙ-500-2ШТ-РАВ">
 <price>1412</price>
 </offer>
 <offer id="01-ДАКФОСАЛ-10-РАВ">
@@ -170,10 +170,10 @@
 <offer id="01-АЛФ-КРОТ-3-САЛ">
 <price>280</price>
 </offer>
-<offer id="02-АЛФ-КРОТ-3-САЛ">
+<offer id="01-АЛФ-КРОТ-6-САЛ">
 <price>369</price>
 </offer>
-<offer id="02-ГУМ-КАЛ-1000-САЛ">
+<offer id="02-ГУМ-КАЛ-1000-2ШТ-САЛ">
 <price>608</price>
 </offer>
 <offer id="01-РАУ-АП-НОВЫЙ-500-САЛ">
@@ -236,7 +236,7 @@
 <offer id="03-ФУНДАЗОЛ-10ГР-САЛ">
 <price>542</price>
 </offer>
-<offer id="02-РАУ-АП-СТАРЫЙ-500-САЛ">
+<offer id="02-РАУ-АП-СТАРЫЙ-500-2ШТ-САЛ">
 <price>1171</price>
 </offer>
 <offer id="01-ДАКФОСАЛ-10-САЛ">
@@ -248,25 +248,25 @@
 <offer id="01-ДАКФОСАЛ-6-САЛ">
 <price>369</price>
 </offer>
-<offer id="03-АЛФ-КРОТ-10-РАВ">
+<offer id="01-АЛФ-КРОТ-30-РАВ">
 <price>950</price>
 </offer>
-<offer id="05-АЛФ-КРОТ-10-РАВ">
+<offer id="01-АЛФ-КРОТ-50-РАВ">
 <price>1429</price>
 </offer>
-<offer id="02-УРАГАН-1000-НОВЫЙ-РАВ">
+<offer id="02-УРАГАН-1000-НОВЫЙ-2ШТ-РАВ">
 <price>2186</price>
 </offer>
-<offer id="02-УРАГАН-500-НОВЫЙ-РАВ">
+<offer id="02-УРАГАН-500-НОВЫЙ-2ШТ-РАВ">
 <price>1613</price>
 </offer>
-<offer id="02-РАУ-АП-СТАРЫЙ-1000-РАВ">
+<offer id="02-РАУ-АП-СТАРЫЙ-1000-2ШТ-РАВ">
 <price>1990</price>
 </offer>
-<offer id="02-РАУ-АП-НОВЫЙ-1000-РАВ">
+<offer id="02-РАУ-АП-НОВЫЙ-1000-2ШТ-РАВ">
 <price>1516</price>
 </offer>
-<offer id="02-РАУ-АП-НОВЫЙ-500-РАВ">
+<offer id="02-РАУ-АП-НОВЫЙ-500-2ШТ-РАВ">
 <price>1103</price>
 </offer>
 <offer id="03-РАУ-АП-ЭКС-100-РАВ">
@@ -275,10 +275,10 @@
 <offer id="03-РАУ-АП-ЭКС-100-САЛ">
 <price>767</price>
 </offer>
-<offer id="03-АЛФ-КРОТ-10-САЛ">
+<offer id="01-АЛФ-КРОТ-30-САЛ">
 <price>824</price>
 </offer>
-<offer id="05-АЛФ-КРОТ-10-САЛ">
+<offer id="01-АЛФ-КРОТ-50-САЛ">
 <price>1240</price>
 </offer>
 </offers>
