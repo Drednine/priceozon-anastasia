@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-05-21 18:17">
+<yml_catalog date="2025-05-21 18:32">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -135,10 +135,10 @@
 <price>393</price>
 </offer>
 <offer id="03-ГУМ-КАЛ-10ГР-САЛ">
-<price>264</price>
+<price>202</price>
 </offer>
 <offer id="05-ГУМ-КАЛ-10ГР-САЛ">
-<price>307</price>
+<price>245</price>
 </offer>
 <offer id="10-ГУМ-КАЛ-10ГР-САЛ">
 <price>414</price>
@@ -147,7 +147,7 @@
 <price>2667</price>
 </offer>
 <offer id="05-ЯНТ-КИС-2ГР-САЛ">
-<price>307</price>
+<price>245</price>
 </offer>
 <offer id="10-ЯНТ-КИС-2ГР-САЛ">
 <price>414</price>
@@ -159,19 +159,19 @@
 <price>414</price>
 </offer>
 <offer id="01-ДЕГОТЬ-100-САЛ">
-<price>372</price>
+<price>310</price>
 </offer>
 <offer id="05-ДЕГОТЬ-100-САЛ">
 <price>1059</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-10-САЛ">
-<price>387</price>
+<price>328</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-3-САЛ">
-<price>280</price>
+<price>221</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-6-САЛ">
-<price>369</price>
+<price>310</price>
 </offer>
 <offer id="02-ГУМ-КАЛ-1000-2ШТ-САЛ">
 <price>608</price>
@@ -240,13 +240,13 @@
 <price>1171</price>
 </offer>
 <offer id="01-ДАКФОСАЛ-10-САЛ">
-<price>387</price>
+<price>328</price>
 </offer>
 <offer id="01-ДАКФОСАЛ-43-САЛ">
 <price>1067</price>
 </offer>
 <offer id="01-ДАКФОСАЛ-6-САЛ">
-<price>369</price>
+<price>310</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-30-РАВ">
 <price>950</price>
