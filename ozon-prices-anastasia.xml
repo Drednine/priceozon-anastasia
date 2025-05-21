@@ -1,129 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-05-21 16:02">
+<yml_catalog date="2025-05-21 16:17">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
-<price>420</price>
+<price>400</price>
 </offer>
 <offer id="01-ГУМ-КАЛ-500-РАВ">
-<price>491</price>
+<price>468</price>
 </offer>
 <offer id="01-ГУМ-КАЛ-1000-РАВ">
-<price>508</price>
+<price>484</price>
 </offer>
 <offer id="03-ГУМ-КАЛ-10ГР-РАВ">
-<price>261</price>
+<price>249</price>
 </offer>
 <offer id="05-ГУМ-КАЛ-10ГР-РАВ">
-<price>316</price>
+<price>302</price>
 </offer>
 <offer id="10-ГУМ-КАЛ-10ГР-РАВ">
-<price>535</price>
+<price>510</price>
 </offer>
 <offer id="01-ТОРНАДО-1000-РАВ">
-<price>3355</price>
+<price>3217</price>
 </offer>
 <offer id="05-ЯНТ-КИС-2ГР-РАВ">
-<price>316</price>
+<price>302</price>
 </offer>
 <offer id="10-ЯНТ-КИС-2ГР-РАВ">
-<price>535</price>
+<price>510</price>
 </offer>
 <offer id="05-БОР-КИС-10ГР-РАВ">
 <price>500</price>
 </offer>
 <offer id="10-БОР-КИС-10ГР-РАВ">
-<price>535</price>
+<price>510</price>
 </offer>
 <offer id="01-ДЕГОТЬ-100-РАВ">
-<price>400</price>
+<price>382</price>
 </offer>
 <offer id="05-ДЕГОТЬ-100-РАВ">
-<price>1369</price>
+<price>1305</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-10-РАВ">
-<price>417</price>
+<price>399</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-3-РАВ">
-<price>281</price>
+<price>269</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-6-РАВ">
-<price>395</price>
+<price>378</price>
 </offer>
 <offer id="02-ГУМ-КАЛ-1000-2ШТ-РАВ">
-<price>786</price>
+<price>749</price>
 </offer>
 <offer id="01-РАУ-АП-НОВЫЙ-500-РАВ">
-<price>872</price>
+<price>836</price>
 </offer>
 <offer id="01-РАУ-АП-НОВЫЙ-1000-РАВ">
-<price>1087</price>
+<price>1043</price>
 </offer>
 <offer id="01-УРАГАН-100-РАВ">
-<price>828</price>
+<price>794</price>
 </offer>
 <offer id="01-УРАГАН-300-РАВ">
-<price>1162</price>
+<price>1114</price>
 </offer>
 <offer id="01-УРАГАН-50-РАВ">
-<price>790</price>
+<price>757</price>
 </offer>
 <offer id="01-РАУ-АП-СТАРЫЙ-1000-РАВ">
-<price>1335</price>
+<price>1280</price>
 </offer>
 <offer id="01-УРАГАН-500-НОВЫЙ-РАВ">
-<price>1138</price>
+<price>1091</price>
 </offer>
 <offer id="01-УРАГАН-1000-НОВЫЙ-РАВ">
-<price>1437</price>
+<price>1378</price>
 </offer>
 <offer id="15-АКТ-4Г-РАВ">
-<price>1626</price>
+<price>1559</price>
 </offer>
 <offer id="10-АКТ-4Г-РАВ">
-<price>1282</price>
+<price>1229</price>
 </offer>
 <offer id="03-АКТ-4Г-РАВ">
-<price>800</price>
+<price>768</price>
 </offer>
 <offer id="20-АКТ-4Г-РАВ">
-<price>1970</price>
+<price>1889</price>
 </offer>
 <offer id="01-РАУ-АП-ЭКС-50-РАВ">
-<price>688</price>
+<price>659</price>
 </offer>
 <offer id="01-РАУ-АП-СТАРЫЙ-500-РАВ">
-<price>1034</price>
+<price>991</price>
 </offer>
 <offer id="01-РАУ-АП-ЭКС-100-РАВ">
-<price>718</price>
+<price>688</price>
 </offer>
 <offer id="01-УРАГАН-500-СТАР-РАВ">
-<price>1588</price>
+<price>1522</price>
 </offer>
 <offer id="01-УРАГАН-1000-СТАР-РАВ">
-<price>2082</price>
+<price>1996</price>
 </offer>
 <offer id="05-ФУНДАЗОЛ-10ГР-РАВ">
-<price>739</price>
+<price>709</price>
 </offer>
 <offer id="10-ФУНДАЗОЛ-10ГР-РАВ">
-<price>884</price>
+<price>848</price>
 </offer>
 <offer id="03-ФУНДАЗОЛ-10ГР-РАВ">
-<price>681</price>
+<price>653</price>
 </offer>
 <offer id="02-РАУ-АП-СТАРЫЙ-500-2ШТ-РАВ">
-<price>1473</price>
+<price>1412</price>
 </offer>
 <offer id="01-ДАКФОСАЛ-10-РАВ">
-<price>417</price>
+<price>399</price>
 </offer>
 <offer id="01-ДАКФОСАЛ-43-РАВ">
-<price>1358</price>
+<price>1299</price>
 </offer>
 <offer id="01-ДАКФОСАЛ-6-РАВ">
-<price>395</price>
+<price>378</price>
 </offer>
 <offer id="01-ГУМ-КАЛ-250-САЛ">
 <price>325</price>
@@ -249,28 +249,28 @@
 <price>369</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-30-РАВ">
-<price>993</price>
+<price>950</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-50-РАВ">
-<price>1494</price>
+<price>1429</price>
 </offer>
 <offer id="02-УРАГАН-1000-НОВЫЙ-2ШТ-РАВ">
-<price>2280</price>
+<price>2186</price>
 </offer>
 <offer id="02-УРАГАН-500-НОВЫЙ-2ШТ-РАВ">
-<price>1682</price>
+<price>1613</price>
 </offer>
 <offer id="02-РАУ-АП-СТАРЫЙ-1000-2ШТ-РАВ">
-<price>2075</price>
+<price>1990</price>
 </offer>
 <offer id="02-РАУ-АП-НОВЫЙ-1000-2ШТ-РАВ">
-<price>1581</price>
+<price>1516</price>
 </offer>
 <offer id="02-РАУ-АП-НОВЫЙ-500-2ШТ-РАВ">
-<price>1151</price>
+<price>1103</price>
 </offer>
 <offer id="03-РАУ-АП-ЭКС-100-РАВ">
-<price>965</price>
+<price>925</price>
 </offer>
 <offer id="03-РАУ-АП-ЭКС-100-САЛ">
 <price>767</price>
