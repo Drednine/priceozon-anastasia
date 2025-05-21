@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-05-21 20:47">
+<yml_catalog date="2025-05-21 21:02">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -283,6 +283,48 @@
 </offer>
 <offer id="БИОГАРД-1000-РАВ">
 <price>1378</price>
+</offer>
+<offer id="ТИУРАМ-100ГР-5ШТ-РАВ">
+<price>1215</price>
+</offer>
+<offer id="ТИУРАМ-100ГР-7ШТ-РАВ">
+<price>1634</price>
+</offer>
+<offer id="ТИУРАМ-100ГР-2ШТ-РАВ">
+<price>624</price>
+</offer>
+<offer id="ТИУРАМ-100ГР-1ШТ-РАВ">
+<price>356</price>
+</offer>
+<offer id="ТИУРАМ-100ГР-10ШТ-РАВ">
+<price>2224</price>
+</offer>
+<offer id="ТИУРАМ-50ГР-1ШТ-РАВ">
+<price>269</price>
+</offer>
+<offer id="ТИУРАМ-50ГР-2ШТ-РАВ">
+<price>450</price>
+</offer>
+<offer id="ТИУРАМ-100ГР-5ШТ-САЛ">
+<price>998</price>
+</offer>
+<offer id="ТИУРАМ-100ГР-7ШТ-САЛ">
+<price>1342</price>
+</offer>
+<offer id="ТИУРАМ-100ГР-2ШТ-САЛ">
+<price>513</price>
+</offer>
+<offer id="ТИУРАМ-100ГР-1ШТ-САЛ">
+<price>292</price>
+</offer>
+<offer id="ТИУРАМ-100ГР-10ШТ-САЛ">
+<price>1827</price>
+</offer>
+<offer id="ТИУРАМ-50ГР-1ШТ-САЛ">
+<price>221</price>
+</offer>
+<offer id="ТИУРАМ-50ГР-2ШТ-САЛ">
+<price>370</price>
 </offer>
 </offers>
 </shop>
