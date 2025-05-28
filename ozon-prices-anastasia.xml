@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-05-28 22:47">
+<yml_catalog date="2025-05-28 23:02">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -373,6 +373,24 @@
 </offer>
 <offer id="01-КАЛИПСО-10МЛ-САЛ">
 <price>600</price>
+</offer>
+<offer id="ЗМЕЕСТОП-1ШТ-РАВ">
+<price>695</price>
+</offer>
+<offer id="ЗМЕЕСТОП-2ШТ-РАВ">
+<price>1305</price>
+</offer>
+<offer id="ЗМЕЕСТОП-3ШТ-РАВ">
+<price>1846</price>
+</offer>
+<offer id="ЗМЕЕСТОП-1ШТ-САЛ">
+<price>654</price>
+</offer>
+<offer id="ЗМЕЕСТОП-2ШТ-САЛ">
+<price>1228</price>
+</offer>
+<offer id="ЗМЕЕСТОП-3ШТ-САЛ">
+<price>1737</price>
 </offer>
 </offers>
 </shop>
