@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-06-12 08:02">
+<yml_catalog date="2025-06-12 08:17">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -54,10 +54,10 @@
 <price>686</price>
 </offer>
 <offer id="01-РАУ-АП-НОВЫЙ-500-РАВ">
-<price>794</price>
+<price>860</price>
 </offer>
 <offer id="01-РАУ-АП-НОВЫЙ-1000-РАВ">
-<price>995</price>
+<price>1077</price>
 </offer>
 <offer id="01-УРАГАН-100-РАВ">
 <price>756</price>
@@ -69,7 +69,7 @@
 <price>721</price>
 </offer>
 <offer id="01-РАУ-АП-СТАРЫЙ-1000-РАВ">
-<price>1215</price>
+<price>1317</price>
 </offer>
 <offer id="01-УРАГАН-500-НОВЫЙ-РАВ">
 <price>1031</price>
@@ -90,13 +90,13 @@
 <price>1759</price>
 </offer>
 <offer id="01-РАУ-АП-ЭКС-50-РАВ">
-<price>630</price>
+<price>683</price>
 </offer>
 <offer id="01-РАУ-АП-СТАРЫЙ-500-РАВ">
-<price>938</price>
+<price>1016</price>
 </offer>
 <offer id="01-РАУ-АП-ЭКС-100-РАВ">
-<price>657</price>
+<price>712</price>
 </offer>
 <offer id="01-УРАГАН-500-СТАР-РАВ">
 <price>1432</price>
@@ -114,7 +114,7 @@
 <price>608</price>
 </offer>
 <offer id="02-РАУ-АП-СТАРЫЙ-500-2ШТ-РАВ">
-<price>1346</price>
+<price>1457</price>
 </offer>
 <offer id="01-ДАКФОСАЛ-10-РАВ">
 <price>446</price>
@@ -177,10 +177,10 @@
 <price>686</price>
 </offer>
 <offer id="01-РАУ-АП-НОВЫЙ-500-САЛ">
-<price>794</price>
+<price>860</price>
 </offer>
 <offer id="01-РАУ-АП-НОВЫЙ-1000-САЛ">
-<price>995</price>
+<price>1077</price>
 </offer>
 <offer id="01-УРАГАН-100-САЛ">
 <price>756</price>
@@ -192,7 +192,7 @@
 <price>721</price>
 </offer>
 <offer id="01-РАУ-АП-СТАРЫЙ-1000-САЛ">
-<price>1215</price>
+<price>1317</price>
 </offer>
 <offer id="01-УРАГАН-500-НОВЫЙ-САЛ">
 <price>1031</price>
@@ -213,13 +213,13 @@
 <price>1759</price>
 </offer>
 <offer id="01-РАУ-АП-ЭКС-50-САЛ">
-<price>630</price>
+<price>683</price>
 </offer>
 <offer id="01-РАУ-АП-СТАРЫЙ-500-САЛ">
-<price>938</price>
+<price>1016</price>
 </offer>
 <offer id="01-РАУ-АП-ЭКС-100-САЛ">
-<price>657</price>
+<price>712</price>
 </offer>
 <offer id="01-УРАГАН-500-СТАР-САЛ">
 <price>1432</price>
@@ -237,7 +237,7 @@
 <price>608</price>
 </offer>
 <offer id="02-РАУ-АП-СТАРЫЙ-500-2ШТ-САЛ">
-<price>1346</price>
+<price>1457</price>
 </offer>
 <offer id="01-ДАКФОСАЛ-10-САЛ">
 <price>446</price>
@@ -261,19 +261,19 @@
 <price>1532</price>
 </offer>
 <offer id="02-РАУ-АП-СТАРЫЙ-1000-2ШТ-РАВ">
-<price>1901</price>
+<price>2059</price>
 </offer>
 <offer id="02-РАУ-АП-НОВЫЙ-1000-2ШТ-РАВ">
-<price>1459</price>
+<price>1581</price>
 </offer>
 <offer id="02-РАУ-АП-НОВЫЙ-500-2ШТ-РАВ">
-<price>1058</price>
+<price>1146</price>
 </offer>
 <offer id="03-РАУ-АП-ЭКС-300-РАВ">
-<price>911</price>
+<price>987</price>
 </offer>
 <offer id="03-РАУ-АП-ЭКС-300-САЛ">
-<price>911</price>
+<price>987</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-30-САЛ">
 <price>846</price>
@@ -336,7 +336,7 @@
 <price>1217</price>
 </offer>
 <offer id="РАУ-АП-НОВЫЙ-1000-2ШТ-САЛ">
-<price>1459</price>
+<price>1581</price>
 </offer>
 <offer id="02-БИО-ГАР-1000-2ШТ-САЛ">
 <price>2083</price>
@@ -351,10 +351,10 @@
 <price>1217</price>
 </offer>
 <offer id="02-РАУ-АП-СТАРЫЙ-1000-2ШТ-САЛ">
-<price>1901</price>
+<price>2059</price>
 </offer>
 <offer id="РАУ-АП-НОВЫЙ-500-2ШТ-САЛ">
-<price>1058</price>
+<price>1146</price>
 </offer>
 <offer id="01-НАПАЛМ-500-САЛ">
 <price>939</price>
