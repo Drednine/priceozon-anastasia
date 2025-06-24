@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-06-24 11:17">
+<yml_catalog date="2025-06-24 11:32">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -418,6 +418,48 @@
 </offer>
 <offer id="РАУ-АП-СТАРЫЙ-500-РАВ">
 <price>1108</price>
+</offer>
+<offer id="ЭКОФУС-500-1ШТ-РАВ">
+<price>732</price>
+</offer>
+<offer id="ФЕРОВИТ-1000-1ШТ-РАВ">
+<price>1610</price>
+</offer>
+<offer id="СИЛИПЛАНТ-100-1ШТ-РАВ">
+<price>598</price>
+</offer>
+<offer id="ЭПИН-ЭКСТРА-50-1ШТ-РАВ">
+<price>887</price>
+</offer>
+<offer id="ФЕРОВИТ-100-1ШТ-РАВ">
+<price>736</price>
+</offer>
+<offer id="ЦИРКОН-50-1ШТ-РАВ">
+<price>887</price>
+</offer>
+<offer id="ДОМОЦВЕТ-50-1ШТ-РАВ">
+<price>823</price>
+</offer>
+<offer id="ЭКОФУС-500-1ШТ-САЛ">
+<price>732</price>
+</offer>
+<offer id="ФЕРОВИТ-1000-1ШТ-САЛ">
+<price>1610</price>
+</offer>
+<offer id="СИЛИПЛАНТ-100-1ШТ-САЛ">
+<price>598</price>
+</offer>
+<offer id="ЭПИН-ЭКСТРА-50-1ШТ-САЛ">
+<price>887</price>
+</offer>
+<offer id="ФЕРОВИТ-100-1ШТ-САЛ">
+<price>736</price>
+</offer>
+<offer id="ЦИРКОН-50-1ШТ-САЛ">
+<price>887</price>
+</offer>
+<offer id="ДОМОЦВЕТ-50-1ШТ-САЛ">
+<price>823</price>
 </offer>
 </offers>
 </shop>
