@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-07-21 16:02">
+<yml_catalog date="2025-07-21 16:17">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -634,6 +634,132 @@
 </offer>
 <offer id="МАЛ-ПЛА-МЫШ-10ШТ-САЛ">
 <price>847</price>
+</offer>
+<offer id="01-АЛФ-КРОТ-6-ПДА">
+<price>436</price>
+</offer>
+<offer id="01-АЛФ-КРОТ-50-ПДА">
+<price>1269</price>
+</offer>
+<offer id="ТИУРАМ-50ГР-2ШТ-ПДА">
+<price>437</price>
+</offer>
+<offer id="01-АЛФ-КРОТ-30-ПДА">
+<price>861</price>
+</offer>
+<offer id="ТИУРАМ-50ГР-1ШТ-ПДА">
+<price>343</price>
+</offer>
+<offer id="ТИУРАМ-100ГР-1ШТ-ПДА">
+<price>417</price>
+</offer>
+<offer id="ТИУРАМ-100ГР-10ШТ-ПДА">
+<price>1956</price>
+</offer>
+<offer id="01-ДАКФОСАЛ-10-ПДА">
+<price>454</price>
+</offer>
+<offer id="ТИУРАМ-100ГР-2ШТ-ПДА">
+<price>585</price>
+</offer>
+<offer id="ТИУРАМ-100ГР-5ШТ-ПДА">
+<price>1086</price>
+</offer>
+<offer id="МАЛ-ПЛА-МЫШ-5ШТ-ПДА">
+<price>532</price>
+</offer>
+<offer id="МАЛ-ПЛА-МЫШ-10ШТ-ПДА">
+<price>847</price>
+</offer>
+<offer id="01-АЛФ-КРОТ-3-ПДА">
+<price>343</price>
+</offer>
+<offer id="01-АЛФ-КРОТ-10-ПДА">
+<price>454</price>
+</offer>
+<offer id="ЗМЕЕСТОП-2ШТ-ПДА">
+<price>1230</price>
+</offer>
+<offer id="ТИУРАМ-100ГР-7ШТ-ПДА">
+<price>1454</price>
+</offer>
+<offer id="01-ДАКФОСАЛ-43-ПДА">
+<price>1158</price>
+</offer>
+<offer id="ЗМЕЕСТОП-1ШТ-ПДА">
+<price>740</price>
+</offer>
+<offer id="01-ДАКФОСАЛ-6-ПДА">
+<price>436</price>
+</offer>
+<offer id="ЗМЕЕСТОП-3ШТ-ПДА">
+<price>1720</price>
+</offer>
+<offer id="10-БОР-КИС-10ГР-10ШТ-ПДА">
+<price>506</price>
+</offer>
+<offer id="05-БОР-КИС-10ГР-5ШТ-ПДА">
+<price>391</price>
+</offer>
+<offer id="01-ГУМ-КАЛ-250-ПДА">
+<price>410</price>
+</offer>
+<offer id="01-ДЕГОТЬ-100-ПДА">
+<price>461</price>
+</offer>
+<offer id="ЦИРКОН-50-1ШТ-ПДА">
+<price>851</price>
+</offer>
+<offer id="05-ГУМ-КАЛ-10ГР-5ШТ-ПДА">
+<price>391</price>
+</offer>
+<offer id="05-ЯНТ-КИС-2ГР-5ШТ-ПДА">
+<price>391</price>
+</offer>
+<offer id="ЭКОФУС-500-1ШТ-ПДА">
+<price>702</price>
+</offer>
+<offer id="ДОМОЦВЕТ-50-1ШТ-ПДА">
+<price>790</price>
+</offer>
+<offer id="10-ГУМ-КАЛ-10ГР-ПДА">
+<price>506</price>
+</offer>
+<offer id="01-ГУМ-КАЛ-1000-ПДА">
+<price>483</price>
+</offer>
+<offer id="СИЛИПЛАНТ-100-1ШТ-ПДА">
+<price>574</price>
+</offer>
+<offer id="01-ГУМ-КАЛ-500-ПДА">
+<price>469</price>
+</offer>
+<offer id="ФЕРОВИТ-1000-1ШТ-ПДА">
+<price>1544</price>
+</offer>
+<offer id="ЭПИН-ЭКСТРА-50-1ШТ-ПДА">
+<price>851</price>
+</offer>
+<offer id="03-ГУМ-КАЛ-10ГР-3ШТ-ПДА">
+<price>344</price>
+</offer>
+<offer id="ЭКОФУС-1000МЛ-1ШТ-ПДА">
+<price>1047</price>
+</offer>
+<offer id="05-ДЕГОТЬ-100-5ШТ-ПДА">
+<price>1202</price>
+</offer>
+<offer id="СИЛИПЛАНТ-1000МЛ-1ШТ-ПДА">
+<price>1510</price>
+</offer>
+<offer id="02-ГУМ-КАЛ-1000-2ШТ-ПДА">
+<price>728</price>
+</offer>
+<offer id="10-ЯНТ-КИС-2ГР-10ШТ-ПДА">
+<price>506</price>
+</offer>
+<offer id="ФЕРОВИТ-100-1ШТ-ПДА">
+<price>706</price>
 </offer>
 </offers>
 </shop>
