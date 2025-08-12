@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-08-12 09:47">
+<yml_catalog date="2025-08-12 10:02">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -760,6 +760,60 @@
 </offer>
 <offer id="ФЕРОВИТ-100-1ШТ-ПДА">
 <price>716</price>
+</offer>
+<offer id="ЗЕЛ-МЫЛ-250-1ШТ-ПДА">
+<price>394</price>
+</offer>
+<offer id="ЗЕЛ-МЫЛ-500-1ШТ-ПДА">
+<price>429</price>
+</offer>
+<offer id="ДЕЛИЦИЯ-1ШТ-ПДА">
+<price>1251</price>
+</offer>
+<offer id="КЛЕЕВАЯ-ЛОВ-МЫШ-5ШТ-ПДА">
+<price>615</price>
+</offer>
+<offer id="КЛЕЕВАЯ-ЛОВ-МЫШ-10ШТ-ПДА">
+<price>980</price>
+</offer>
+<offer id="КЛЕЕВАЯ-ЛОВ-МЫШ-15ШТ-ПДА">
+<price>1379</price>
+</offer>
+<offer id="ЗЕЛ-МЫЛ-250-1ШТ-РАВ">
+<price>394</price>
+</offer>
+<offer id="ЗЕЛ-МЫЛ-500-1ШТ-РАВ">
+<price>429</price>
+</offer>
+<offer id="ДЕЛИЦИЯ-1ШТ-РАВ">
+<price>1251</price>
+</offer>
+<offer id="КЛЕЕВАЯ-ЛОВ-МЫШ-5ШТ-РАВ">
+<price>615</price>
+</offer>
+<offer id="КЛЕЕВАЯ-ЛОВ-МЫШ-10ШТ-РАВ">
+<price>980</price>
+</offer>
+<offer id="КЛЕЕВАЯ-ЛОВ-МЫШ-15ШТ-РАВ">
+<price>1379</price>
+</offer>
+<offer id="ЗЕЛ-МЫЛ-250-1ШТ-САЛ">
+<price>394</price>
+</offer>
+<offer id="ЗЕЛ-МЫЛ-500-1ШТ-САЛ">
+<price>429</price>
+</offer>
+<offer id="ДЕЛИЦИЯ-1ШТ-САЛ">
+<price>1251</price>
+</offer>
+<offer id="КЛЕЕВАЯ-ЛОВ-МЫШ-5ШТ-САЛ">
+<price>615</price>
+</offer>
+<offer id="КЛЕЕВАЯ-ЛОВ-МЫШ-10ШТ-САЛ">
+<price>980</price>
+</offer>
+<offer id="КЛЕЕВАЯ-ЛОВ-МЫШ-15ШТ-САЛ">
+<price>1379</price>
 </offer>
 </offers>
 </shop>
