@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-02 17:32">
+<yml_catalog date="2025-09-02 17:47">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -573,7 +573,7 @@
 <price>364</price>
 </offer>
 <offer id="СГИНЬ-БОР-ШАР-8-2ШТ-РАВ">
-<price>298</price>
+<price>324</price>
 </offer>
 <offer id="СГИНЬ-БОР-ШАР-8-3ШТ-РАВ">
 <price>581</price>
@@ -612,7 +612,7 @@
 <price>1574</price>
 </offer>
 <offer id="ЭКОФУС-1000МЛ-1ШТ-РАВ">
-<price>741</price>
+<price>805</price>
 </offer>
 <offer id="СИЛИПЛАНТ-1000МЛ-1ШТ-РАВ">
 <price>1554</price>
@@ -792,7 +792,7 @@
 <price>430</price>
 </offer>
 <offer id="КЛЕЕВАЯ-ЛОВ-МЫШ-10ШТ-РАВ">
-<price>746</price>
+<price>811</price>
 </offer>
 <offer id="КЛЕЕВАЯ-ЛОВ-МЫШ-15ШТ-РАВ">
 <price>1407</price>
