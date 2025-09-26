@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-26 12:02">
+<yml_catalog date="2025-09-26 12:17">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -822,10 +822,10 @@
 <price>3006</price>
 </offer>
 <offer id="ПРЕПАРАТ-30ПЛЮС-1000МЛ-1ШТ-ПДА">
-<price>1141</price>
+<price>1079</price>
 </offer>
 <offer id="ПРЕПАРАТ-30ПЛЮС-500МЛ-1ШТ-ПДА">
-<price>894</price>
+<price>845</price>
 </offer>
 <offer id="НАТИСК-20МЛ-1ШТ-РАВ">
 <price>331</price>
