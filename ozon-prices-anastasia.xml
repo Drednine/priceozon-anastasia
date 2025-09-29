@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-29 08:17">
+<yml_catalog date="2025-09-29 08:31">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -42,13 +42,13 @@
 <price>1128</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-10-РАВ">
-<price>758</price>
+<price>805</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-3-РАВ">
-<price>640</price>
+<price>680</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-6-РАВ">
-<price>710</price>
+<price>755</price>
 </offer>
 <offer id="02-ГУМ-КАЛ-1000-2ШТ-РАВ">
 <price>718</price>
@@ -189,7 +189,7 @@
 <price>1113</price>
 </offer>
 <offer id="01-УРАГАН-1000-НОВЫЙ-САЛ">
-<price>1650</price>
+<price>1411</price>
 </offer>
 <offer id="15-АКТ-4Г-САЛ">
 <price>1503</price>
@@ -231,10 +231,10 @@
 <price>1421</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-30-РАВ">
-<price>1300</price>
+<price>1393</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-50-РАВ">
-<price>1522</price>
+<price>1618</price>
 </offer>
 <offer id="02-УРАГАН-1000-НОВЫЙ-2ШТ-РАВ">
 <price>2190</price>
@@ -555,7 +555,7 @@
 <price>364</price>
 </offer>
 <offer id="СГИНЬ-БОР-ШАР-8-2ШТ-РАВ">
-<price>512</price>
+<price>548</price>
 </offer>
 <offer id="СГИНЬ-БОР-ШАР-8-3ШТ-РАВ">
 <price>539</price>
@@ -594,7 +594,7 @@
 <price>1287</price>
 </offer>
 <offer id="ЭКОФУС-1000МЛ-1ШТ-РАВ">
-<price>999</price>
+<price>1060</price>
 </offer>
 <offer id="СИЛИПЛАНТ-1000МЛ-1ШТ-РАВ">
 <price>1528</price>
@@ -655,9 +655,6 @@
 </offer>
 <offer id="ЗМЕЕСТОП-2ШТ-ПДА">
 <price>1196</price>
-</offer>
-<offer id="ТИУРАМ-100ГР-7ШТ-ПДА">
-<price>1417</price>
 </offer>
 <offer id="ЗМЕЕСТОП-1ШТ-ПДА">
 <price>736</price>
@@ -762,16 +759,16 @@
 <price>518</price>
 </offer>
 <offer id="КЛЕЕВАЯ-ЛОВ-МЫШ-10ШТ-РАВ">
-<price>726</price>
+<price>767</price>
 </offer>
 <offer id="КЛЕЕВАЯ-ЛОВ-МЫШ-15ШТ-РАВ">
-<price>901</price>
+<price>1037</price>
 </offer>
 <offer id="ЗЕЛ-МЫЛ-250-1ШТ-САЛ">
 <price>386</price>
 </offer>
 <offer id="ЗЕЛ-МЫЛ-500-1ШТ-САЛ">
-<price>438</price>
+<price>420</price>
 </offer>
 <offer id="ДЕЛИЦИЯ-1ШТ-САЛ">
 <price>1258</price>
@@ -819,19 +816,19 @@
 <price>1574</price>
 </offer>
 <offer id="01-ТОРНАДО-1000-ПДА">
-<price>3006</price>
+<price>3188</price>
 </offer>
 <offer id="ПРЕПАРАТ-30ПЛЮС-1000МЛ-1ШТ-ПДА">
-<price>1079</price>
+<price>1211</price>
 </offer>
 <offer id="ПРЕПАРАТ-30ПЛЮС-500МЛ-1ШТ-ПДА">
-<price>845</price>
+<price>948</price>
 </offer>
 <offer id="НАТИСК-20МЛ-1ШТ-РАВ">
 <price>331</price>
 </offer>
 <offer id="НАТИСК-20МЛ-2ШТ-РАВ">
-<price>302</price>
+<price>290</price>
 </offer>
 <offer id="НАТИСК-20МЛ-3ШТ-РАВ">
 <price>454</price>
