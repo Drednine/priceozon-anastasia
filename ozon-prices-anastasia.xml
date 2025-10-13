@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-13 08:17">
+<yml_catalog date="2025-10-13 08:32">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
-<price>299</price>
+<price>278</price>
 </offer>
 <offer id="01-ГУМ-КАЛ-500-РАВ">
-<price>299</price>
+<price>289</price>
 </offer>
 <offer id="01-ГУМ-КАЛ-1000-РАВ">
-<price>299</price>
+<price>294</price>
 </offer>
 <offer id="03-ГУМ-КАЛ-10ГР-3ШТ-РАВ">
-<price>299</price>
+<price>212</price>
 </offer>
 <offer id="05-ГУМ-КАЛ-10ГР-5ШТ-РАВ">
-<price>299</price>
+<price>251</price>
 </offer>
 <offer id="10-ГУМ-КАЛ-10ГР-РАВ">
 <price>499</price>
@@ -24,19 +24,19 @@
 <price>3503</price>
 </offer>
 <offer id="05-ЯНТ-КИС-2ГР-5ШТ-РАВ">
-<price>299</price>
+<price>251</price>
 </offer>
 <offer id="10-ЯНТ-КИС-2ГР-10ШТ-РАВ">
 <price>513</price>
 </offer>
 <offer id="05-БОР-КИС-10ГР-5ШТ-РАВ">
-<price>299</price>
+<price>261</price>
 </offer>
 <offer id="10-БОР-КИС-10ГР-10ШТ-РАВ">
 <price>499</price>
 </offer>
 <offer id="01-ДЕГОТЬ-100-РАВ">
-<price>299</price>
+<price>290</price>
 </offer>
 <offer id="05-ДЕГОТЬ-100-5ШТ-РАВ">
 <price>1108</price>
@@ -117,19 +117,19 @@
 <price>1527</price>
 </offer>
 <offer id="01-ГУМ-КАЛ-250-САЛ">
-<price>299</price>
+<price>278</price>
 </offer>
 <offer id="01-ГУМ-КАЛ-500-САЛ">
-<price>299</price>
+<price>294</price>
 </offer>
 <offer id="01-ГУМ-КАЛ-1000-САЛ">
-<price>299</price>
+<price>294</price>
 </offer>
 <offer id="03-ГУМ-КАЛ-10ГР-3ШТ-САЛ">
-<price>299</price>
+<price>212</price>
 </offer>
 <offer id="05-ГУМ-КАЛ-10ГР-5ШТ-САЛ">
-<price>299</price>
+<price>251</price>
 </offer>
 <offer id="10-ГУМ-КАЛ-10ГР-САЛ">
 <price>499</price>
@@ -138,19 +138,19 @@
 <price>3503</price>
 </offer>
 <offer id="05-ЯНТ-КИС-2ГР-5ШТ-САЛ">
-<price>299</price>
+<price>251</price>
 </offer>
 <offer id="10-ЯНТ-КИС-2ГР-10ШТ-САЛ">
 <price>513</price>
 </offer>
 <offer id="05-БОР-КИС-10ГР-5ШТ-САЛ">
-<price>299</price>
+<price>261</price>
 </offer>
 <offer id="10-БОР-КИС-10ГР-10ШТ-САЛ">
 <price>499</price>
 </offer>
 <offer id="01-ДЕГОТЬ-100-САЛ">
-<price>299</price>
+<price>290</price>
 </offer>
 <offer id="05-ДЕГОТЬ-100-5ШТ-САЛ">
 <price>1108</price>
@@ -273,7 +273,7 @@
 <price>642</price>
 </offer>
 <offer id="ТИУРАМ-100ГР-1ШТ-РАВ">
-<price>299</price>
+<price>291</price>
 </offer>
 <offer id="ТИУРАМ-100ГР-10ШТ-РАВ">
 <price>1901</price>
@@ -294,16 +294,16 @@
 <price>624</price>
 </offer>
 <offer id="ТИУРАМ-100ГР-1ШТ-САЛ">
-<price>299</price>
+<price>291</price>
 </offer>
 <offer id="ТИУРАМ-100ГР-10ШТ-САЛ">
 <price>1901</price>
 </offer>
 <offer id="ТИУРАМ-50ГР-1ШТ-САЛ">
-<price>299</price>
+<price>240</price>
 </offer>
 <offer id="ТИУРАМ-50ГР-2ШТ-САЛ">
-<price>299</price>
+<price>293</price>
 </offer>
 <offer id="БИОГАРД-1000-РАВ">
 <price>1564</price>
@@ -447,40 +447,40 @@
 <price>836</price>
 </offer>
 <offer id="МАЛ-ПЛА-МЫШ-5ШТ-РАВ">
-<price>299</price>
+<price>277</price>
 </offer>
 <offer id="МАЛ-ПЛА-МЫШ-10ШТ-РАВ">
 <price>568</price>
 </offer>
 <offer id="ЦИРКОН-1МЛ-3ШТ-РАВ">
-<price>299</price>
+<price>260</price>
 </offer>
 <offer id="ЦИРКОН-1МЛ-5ШТ-РАВ">
-<price>299</price>
+<price>289</price>
 </offer>
 <offer id="ЦИРКОН-1МЛ-10ШТ-РАВ">
 <price>641</price>
 </offer>
 <offer id="ДОМОЦВЕТ-1МЛ-3ШТ-РАВ">
-<price>299</price>
+<price>248</price>
 </offer>
 <offer id="ДОМОЦВЕТ-1МЛ-5ШТ-РАВ">
-<price>299</price>
+<price>287</price>
 </offer>
 <offer id="ДОМОЦВЕТ-1МЛ-10ШТ-РАВ">
 <price>587</price>
 </offer>
 <offer id="ЭПИН-ЭКСТРА-1МЛ-3ШТ-РАВ">
-<price>299</price>
+<price>260</price>
 </offer>
 <offer id="ЭПИН-ЭКСТРА-1МЛ-5ШТ-РАВ">
-<price>299</price>
+<price>289</price>
 </offer>
 <offer id="ЭПИН-ЭКСТРА-1МЛ-10ШТ-РАВ">
 <price>627</price>
 </offer>
 <offer id="ДОХ-ЛОВ-ТАР-6-1ШТ-РАВ">
-<price>299</price>
+<price>286</price>
 </offer>
 <offer id="ДОХ-ЛОВ-ТАР-6-2ШТ-РАВ">
 <price>534</price>
@@ -501,10 +501,10 @@
 <price>1610</price>
 </offer>
 <offer id="ДОХ-ВСЕХ-НАСЕК-20МЛ-1ШТ-РАВ">
-<price>299</price>
+<price>236</price>
 </offer>
 <offer id="ДОХ-ВСЕХ-НАСЕК-20МЛ-2ШТ-РАВ">
-<price>299</price>
+<price>291</price>
 </offer>
 <offer id="ДОХ-ВСЕХ-НАСЕК-20МЛ-3ШТ-РАВ">
 <price>506</price>
@@ -519,22 +519,22 @@
 <price>1610</price>
 </offer>
 <offer id="ДОХ-ОТ-ТАРАК-20МЛ-1ШТ-РАВ">
-<price>299</price>
+<price>224</price>
 </offer>
 <offer id="ДОХ-ОТ-ТАРАК-20МЛ-2ШТ-РАВ">
-<price>299</price>
+<price>284</price>
 </offer>
 <offer id="ДОХ-ОТ-ТАРАК-20МЛ-3ШТ-РАВ">
 <price>471</price>
 </offer>
 <offer id="МОНАРХ-4ГР-1ШТ-РАВ">
-<price>299</price>
+<price>214</price>
 </offer>
 <offer id="МОНАРХ-4ГР-2ШТ-РАВ">
-<price>299</price>
+<price>264</price>
 </offer>
 <offer id="МОНАРХ-4ГР-3ШТ-РАВ">
-<price>299</price>
+<price>291</price>
 </offer>
 <offer id="ПОЛИКАРБАЦИН-20ГР-3ШТ-РАВ">
 <price>781</price>
@@ -546,19 +546,19 @@
 <price>1108</price>
 </offer>
 <offer id="СГИНЬ-НАСЕК-50ГР-3ШТ-РАВ">
-<price>299</price>
+<price>260</price>
 </offer>
 <offer id="СГИНЬ-НАСЕК-50ГР-5ШТ-РАВ">
-<price>299</price>
+<price>289</price>
 </offer>
 <offer id="СГИНЬ-НАСЕК-50ГР-10ШТ-РАВ">
 <price>588</price>
 </offer>
 <offer id="СГИНЬ-БОР-ШАР-8-1ШТ-РАВ">
-<price>299</price>
+<price>250</price>
 </offer>
 <offer id="СГИНЬ-БОР-ШАР-8-2ШТ-РАВ">
-<price>299</price>
+<price>279</price>
 </offer>
 <offer id="СГИНЬ-БОР-ШАР-8-3ШТ-РАВ">
 <price>572</price>
@@ -609,7 +609,7 @@
 <price>1597</price>
 </offer>
 <offer id="01-ГУМ-КАЛ-250-ПДА">
-<price>299</price>
+<price>278</price>
 </offer>
 <offer id="01-ГУМ-КАЛ-500-ПДА">
 <price>299</price>
@@ -618,28 +618,28 @@
 <price>299</price>
 </offer>
 <offer id="03-ГУМ-КАЛ-10ГР-3ШТ-ПДА">
-<price>299</price>
+<price>212</price>
 </offer>
 <offer id="05-ГУМ-КАЛ-10ГР-5ШТ-ПДА">
-<price>299</price>
+<price>251</price>
 </offer>
 <offer id="10-ГУМ-КАЛ-10ГР-ПДА">
 <price>499</price>
 </offer>
 <offer id="05-ЯНТ-КИС-2ГР-5ШТ-ПДА">
-<price>299</price>
+<price>251</price>
 </offer>
 <offer id="10-ЯНТ-КИС-2ГР-10ШТ-ПДА">
 <price>513</price>
 </offer>
 <offer id="05-БОР-КИС-10ГР-5ШТ-ПДА">
-<price>299</price>
+<price>261</price>
 </offer>
 <offer id="10-БОР-КИС-10ГР-10ШТ-ПДА">
 <price>499</price>
 </offer>
 <offer id="01-ДЕГОТЬ-100-ПДА">
-<price>299</price>
+<price>295</price>
 </offer>
 <offer id="05-ДЕГОТЬ-100-5ШТ-ПДА">
 <price>1108</price>
@@ -675,34 +675,34 @@
 <price>621</price>
 </offer>
 <offer id="ЦИРКОН-1МЛ-3ШТ-ПДА">
-<price>299</price>
+<price>260</price>
 </offer>
 <offer id="ЦИРКОН-1МЛ-5ШТ-ПДА">
-<price>299</price>
+<price>295</price>
 </offer>
 <offer id="ЦИРКОН-1МЛ-10ШТ-ПДА">
 <price>641</price>
 </offer>
 <offer id="ДОМОЦВЕТ-1МЛ-3ШТ-ПДА">
-<price>299</price>
+<price>248</price>
 </offer>
 <offer id="ДОМОЦВЕТ-1МЛ-5ШТ-ПДА">
-<price>299</price>
+<price>298</price>
 </offer>
 <offer id="ДОМОЦВЕТ-1МЛ-10ШТ-ПДА">
 <price>587</price>
 </offer>
 <offer id="ЭПИН-ЭКСТРА-1МЛ-3ШТ-ПДА">
-<price>299</price>
+<price>260</price>
 </offer>
 <offer id="ЭПИН-ЭКСТРА-1МЛ-5ШТ-ПДА">
-<price>299</price>
+<price>295</price>
 </offer>
 <offer id="ЭПИН-ЭКСТРА-1МЛ-10ШТ-ПДА">
 <price>627</price>
 </offer>
 <offer id="ДОХ-ЛОВ-ТАР-6-1ШТ-ПДА">
-<price>299</price>
+<price>286</price>
 </offer>
 <offer id="ДОХ-ЛОВ-ТАР-6-2ШТ-ПДА">
 <price>534</price>
@@ -723,10 +723,10 @@
 <price>1610</price>
 </offer>
 <offer id="ДОХ-ВСЕХ-НАСЕК-20МЛ-1ШТ-ПДА">
-<price>299</price>
+<price>236</price>
 </offer>
 <offer id="ДОХ-ВСЕХ-НАСЕК-20МЛ-2ШТ-ПДА">
-<price>299</price>
+<price>296</price>
 </offer>
 <offer id="ДОХ-ВСЕХ-НАСЕК-20МЛ-3ШТ-ПДА">
 <price>506</price>
@@ -741,34 +741,34 @@
 <price>1610</price>
 </offer>
 <offer id="ДОХ-ОТ-ТАРАК-20МЛ-1ШТ-ПДА">
-<price>299</price>
+<price>224</price>
 </offer>
 <offer id="ДОХ-ОТ-ТАРАК-20МЛ-2ШТ-ПДА">
-<price>299</price>
+<price>284</price>
 </offer>
 <offer id="ДОХ-ОТ-ТАРАК-20МЛ-3ШТ-ПДА">
 <price>471</price>
 </offer>
 <offer id="МОНАРХ-4ГР-1ШТ-ПДА">
-<price>299</price>
+<price>214</price>
 </offer>
 <offer id="МОНАРХ-4ГР-2ШТ-ПДА">
-<price>299</price>
+<price>264</price>
 </offer>
 <offer id="МОНАРХ-4ГР-3ШТ-ПДА">
-<price>299</price>
+<price>296</price>
 </offer>
 <offer id="СГИНЬ-НАСЕК-50ГР-3ШТ-ПДА">
-<price>299</price>
+<price>260</price>
 </offer>
 <offer id="СГИНЬ-НАСЕК-50ГР-5ШТ-ПДА">
-<price>299</price>
+<price>295</price>
 </offer>
 <offer id="СГИНЬ-НАСЕК-50ГР-10ШТ-ПДА">
 <price>588</price>
 </offer>
 <offer id="СГИНЬ-БОР-ШАР-8-1ШТ-ПДА">
-<price>299</price>
+<price>250</price>
 </offer>
 <offer id="СГИНЬ-БОР-ШАР-8-2ШТ-ПДА">
 <price>299</price>
@@ -807,19 +807,19 @@
 <price>1597</price>
 </offer>
 <offer id="МАЛ-ПЛА-МЫШ-5ШТ-САЛ">
-<price>299</price>
+<price>289</price>
 </offer>
 <offer id="МАЛ-ПЛА-МЫШ-10ШТ-САЛ">
 <price>621</price>
 </offer>
 <offer id="ЗЕЛ-МЫЛ-250-1ШТ-ПДА">
-<price>299</price>
+<price>241</price>
 </offer>
 <offer id="ЗЕЛ-МЫЛ-500-1ШТ-ПДА">
-<price>299</price>
+<price>274</price>
 </offer>
 <offer id="СГИНЬ-БОР-ШАР-8-1ШТ-ПДА">
-<price>299</price>
+<price>250</price>
 </offer>
 <offer id="СГИНЬ-БОР-ШАР-8-2ШТ-ПДА">
 <price>299</price>
@@ -855,10 +855,10 @@
 <price>861</price>
 </offer>
 <offer id="ЗЕЛ-МЫЛ-250-1ШТ-РАВ">
-<price>299</price>
+<price>241</price>
 </offer>
 <offer id="ЗЕЛ-МЫЛ-500-1ШТ-РАВ">
-<price>299</price>
+<price>274</price>
 </offer>
 <offer id="ДЕЛИЦИЯ-1ШТ-РАВ">
 <price>1316</price>
@@ -873,10 +873,10 @@
 <price>1020</price>
 </offer>
 <offer id="ЗЕЛ-МЫЛ-250-1ШТ-САЛ">
-<price>299</price>
+<price>241</price>
 </offer>
 <offer id="ЗЕЛ-МЫЛ-500-1ШТ-САЛ">
-<price>299</price>
+<price>274</price>
 </offer>
 <offer id="ДЕЛИЦИЯ-1ШТ-САЛ">
 <price>1316</price>
@@ -924,55 +924,55 @@
 <price>1041</price>
 </offer>
 <offer id="НАТИСК-20МЛ-1ШТ-РАВ">
-<price>299</price>
+<price>218</price>
 </offer>
 <offer id="НАТИСК-20МЛ-2ШТ-РАВ">
-<price>299</price>
+<price>265</price>
 </offer>
 <offer id="НАТИСК-20МЛ-3ШТ-РАВ">
 <price>485</price>
 </offer>
 <offer id="ЦИТОВИТ-1,5МЛ-3ШТ-РАВ">
-<price>299</price>
+<price>254</price>
 </offer>
 <offer id="ЦИТОВИТ-1,5МЛ-5ШТ-РАВ">
-<price>299</price>
+<price>298</price>
 </offer>
 <offer id="ЦИТОВИТ-1,5МЛ-10ШТ-РАВ">
 <price>641</price>
 </offer>
 <offer id="ЯНТ-КИС-5ГР-3ШТ-РАВ">
-<price>299</price>
+<price>196</price>
 </offer>
 <offer id="ЯНТ-КИС-5ГР-5ШТ-РАВ">
-<price>299</price>
+<price>228</price>
 </offer>
 <offer id="ЯНТ-КИС-5ГР-10ШТ-РАВ">
-<price>299</price>
+<price>298</price>
 </offer>
 <offer id="ЯНТ-КИС-5ГР-3ШТ-САЛ">
-<price>299</price>
+<price>196</price>
 </offer>
 <offer id="ЯНТ-КИС-5ГР-5ШТ-САЛ">
-<price>299</price>
+<price>228</price>
 </offer>
 <offer id="ЯНТ-КИС-5ГР-10ШТ-САЛ">
-<price>299</price>
+<price>298</price>
 </offer>
 <offer id="ЯНТ-КИС-5ГР-3ШТ-ПДА">
-<price>299</price>
+<price>196</price>
 </offer>
 <offer id="ЯНТ-КИС-5ГР-5ШТ-ПДА">
-<price>299</price>
+<price>228</price>
 </offer>
 <offer id="ЯНТ-КИС-5ГР-10ШТ-ПДА">
-<price>299</price>
+<price>298</price>
 </offer>
 <offer id="НАТИСК-ОТ-МУРАВ-20МЛ-1ШТ-РАВ">
-<price>299</price>
+<price>218</price>
 </offer>
 <offer id="НАТИСК-ОТ-МУРАВ-20МЛ-2ШТ-РАВ">
-<price>299</price>
+<price>282</price>
 </offer>
 <offer id="НАТИСК-ОТ-МУРАВ-20МЛ-3ШТ-РАВ">
 <price>485</price>
