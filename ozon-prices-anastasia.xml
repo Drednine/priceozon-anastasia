@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-03 08:02">
+<yml_catalog date="2025-11-03 08:17">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -1186,6 +1186,51 @@
 </offer>
 <offer id="ЖЕЛЕЗНЫЙ-КУПОРОС-1КГ-2ШТ-ПДА">
 <price>907</price>
+</offer>
+<offer id="ТИУРАМ-ЧЕРНЫЙ-100ГР-1ШТ-РАВ">
+<price>281</price>
+</offer>
+<offer id="ТИУРАМ-ЧЕРНЫЙ-100ГР-2ШТ-РАВ">
+<price>741</price>
+</offer>
+<offer id="ТИУРАМ-ЧЕРНЫЙ-100ГР-5ШТ-РАВ">
+<price>1356</price>
+</offer>
+<offer id="ТИУРАМ-ЧЕРНЫЙ-100ГР-7ШТ-РАВ">
+<price>1795</price>
+</offer>
+<offer id="ТИУРАМ-ЧЕРНЫЙ-100ГР-10ШТ-РАВ">
+<price>2389</price>
+</offer>
+<offer id="ТИУРАМ-ЧЕРНЫЙ-100ГР-1ШТ-САЛ">
+<price>281</price>
+</offer>
+<offer id="ТИУРАМ-ЧЕРНЫЙ-100ГР-2ШТ-САЛ">
+<price>741</price>
+</offer>
+<offer id="ТИУРАМ-ЧЕРНЫЙ-100ГР-5ШТ-САЛ">
+<price>1356</price>
+</offer>
+<offer id="ТИУРАМ-ЧЕРНЫЙ-100ГР-7ШТ-САЛ">
+<price>1795</price>
+</offer>
+<offer id="ТИУРАМ-ЧЕРНЫЙ-100ГР-10ШТ-САЛ">
+<price>2389</price>
+</offer>
+<offer id="ТИУРАМ-ЧЕРНЫЙ-100ГР-1ШТ-ПДА">
+<price>281</price>
+</offer>
+<offer id="ТИУРАМ-ЧЕРНЫЙ-100ГР-2ШТ-ПДА">
+<price>741</price>
+</offer>
+<offer id="ТИУРАМ-ЧЕРНЫЙ-100ГР-5ШТ-ПДА">
+<price>1356</price>
+</offer>
+<offer id="ТИУРАМ-ЧЕРНЫЙ-100ГР-7ШТ-ПДА">
+<price>1795</price>
+</offer>
+<offer id="ТИУРАМ-ЧЕРНЫЙ-100ГР-10ШТ-ПДА">
+<price>2389</price>
 </offer>
 </offers>
 </shop>
