@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-08 21:17">
+<yml_catalog date="2025-11-08 21:32">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -1351,6 +1351,105 @@
 </offer>
 <offer id="КОНФИДОЛ-10МЛ-3ШТ-ПДА">
 <price>1004</price>
+</offer>
+<offer id="ДЕГОТЬ-500МЛ-1ШТ-РАВ">
+<price>746</price>
+</offer>
+<offer id="ДЕГОТЬ-500МЛ-1ШТ-САЛ">
+<price>746</price>
+</offer>
+<offer id="ДЕГОТЬ-500МЛ-1ШТ-ПДА">
+<price>746</price>
+</offer>
+<offer id="ДЕГОТЬ-500МЛ-2ШТ-РАВ">
+<price>1107</price>
+</offer>
+<offer id="ДЕГОТЬ-500МЛ-2ШТ-САЛ">
+<price>1107</price>
+</offer>
+<offer id="ДЕГОТЬ-500МЛ-2ШТ-ПДА">
+<price>1107</price>
+</offer>
+<offer id="ДЕГОТЬ-500МЛ-3ШТ-РАВ">
+<price>1484</price>
+</offer>
+<offer id="ДЕГОТЬ-500МЛ-3ШТ-САЛ">
+<price>1484</price>
+</offer>
+<offer id="ДЕГОТЬ-500МЛ-3ШТ-ПДА">
+<price>1484</price>
+</offer>
+<offer id="ДЕГОТЬ-500МЛ-4ШТ-РАВ">
+<price>1814</price>
+</offer>
+<offer id="ДЕГОТЬ-500МЛ-4ШТ-САЛ">
+<price>1814</price>
+</offer>
+<offer id="ДЕГОТЬ-500МЛ-4ШТ-ПДА">
+<price>1814</price>
+</offer>
+<offer id="МАРГАНЦОВКА-10ГР-3ШТ-РАВ">
+<price>169</price>
+</offer>
+<offer id="МАРГАНЦОВКА-10ГР-3ШТ-САЛ">
+<price>169</price>
+</offer>
+<offer id="МАРГАНЦОВКА-10ГР-3ШТ-ПДА">
+<price>169</price>
+</offer>
+<offer id="МАРГАНЦОВКА-10ГР-5ШТ-РАВ">
+<price>192</price>
+</offer>
+<offer id="МАРГАНЦОВКА-10ГР-5ШТ-САЛ">
+<price>192</price>
+</offer>
+<offer id="МАРГАНЦОВКА-10ГР-5ШТ-ПДА">
+<price>192</price>
+</offer>
+<offer id="МАРГАНЦОВКА-10ГР-10ШТ-РАВ">
+<price>253</price>
+</offer>
+<offer id="МАРГАНЦОВКА-10ГР-10ШТ-САЛ">
+<price>253</price>
+</offer>
+<offer id="МАРГАНЦОВКА-10ГР-10ШТ-ПДА">
+<price>253</price>
+</offer>
+<offer id="БОР-КИС-100ГР-1ШТ-РАВ">
+<price>219</price>
+</offer>
+<offer id="БОР-КИС-100ГР-1ШТ-САЛ">
+<price>219</price>
+</offer>
+<offer id="БОР-КИС-100ГР-1ШТ-ПДА">
+<price>219</price>
+</offer>
+<offer id="БОР-КИС-100ГР-2ШТ-РАВ">
+<price>299</price>
+</offer>
+<offer id="БОР-КИС-100ГР-2ШТ-САЛ">
+<price>299</price>
+</offer>
+<offer id="БОР-КИС-100ГР-2ШТ-ПДА">
+<price>299</price>
+</offer>
+<offer id="БОР-КИС-100ГР-3ШТ-РАВ">
+<price>775</price>
+</offer>
+<offer id="БОР-КИС-100ГР-3ШТ-САЛ">
+<price>775</price>
+</offer>
+<offer id="БОР-КИС-100ГР-3ШТ-ПДА">
+<price>775</price>
+</offer>
+<offer id="БОР-КИС-100ГР-5ШТ-РАВ">
+<price>1047</price>
+</offer>
+<offer id="БОР-КИС-100ГР-5ШТ-САЛ">
+<price>1047</price>
+</offer>
+<offer id="БОР-КИС-100ГР-5ШТ-ПДА">
+<price>1047</price>
 </offer>
 </offers>
 </shop>
