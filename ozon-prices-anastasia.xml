@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-11 08:02">
+<yml_catalog date="2025-11-11 08:17">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -1143,31 +1143,31 @@
 <price>698</price>
 </offer>
 <offer id="ЖЕЛЕЗНЫЙ-КУПОРОС-200ГР-1ШТ-РАВ">
-<price>175</price>
+<price>180</price>
 </offer>
 <offer id="ЖЕЛЕЗНЫЙ-КУПОРОС-200ГР-1ШТ-САЛ">
-<price>175</price>
+<price>180</price>
 </offer>
 <offer id="ЖЕЛЕЗНЫЙ-КУПОРОС-200ГР-1ШТ-ПДА">
-<price>175</price>
+<price>180</price>
 </offer>
 <offer id="ЖЕЛЕЗНЫЙ-КУПОРОС-200ГР-2ШТ-РАВ">
-<price>210</price>
+<price>215</price>
 </offer>
 <offer id="ЖЕЛЕЗНЫЙ-КУПОРОС-200ГР-2ШТ-САЛ">
-<price>210</price>
+<price>215</price>
 </offer>
 <offer id="ЖЕЛЕЗНЫЙ-КУПОРОС-200ГР-2ШТ-ПДА">
-<price>210</price>
+<price>215</price>
 </offer>
 <offer id="ЖЕЛЕЗНЫЙ-КУПОРОС-200ГР-3ШТ-РАВ">
-<price>260</price>
+<price>265</price>
 </offer>
 <offer id="ЖЕЛЕЗНЫЙ-КУПОРОС-200ГР-3ШТ-САЛ">
-<price>260</price>
+<price>265</price>
 </offer>
 <offer id="ЖЕЛЕЗНЫЙ-КУПОРОС-200ГР-3ШТ-ПДА">
-<price>260</price>
+<price>265</price>
 </offer>
 <offer id="ЖЕЛЕЗНЫЙ-КУПОРОС-1КГ-1ШТ-РАВ">
 <price>299</price>
@@ -1468,6 +1468,24 @@
 </offer>
 <offer id="МОНАРХ-4ГР-2ШТ-САЛ">
 <price>232</price>
+</offer>
+<offer id="КОНФИДОЛ-10МЛ-1ШТ-РАВ">
+<price>809</price>
+</offer>
+<offer id="КОНФИДОЛ-10МЛ-2ШТ-РАВ">
+<price>906</price>
+</offer>
+<offer id="КОНФИДОЛ-10МЛ-3ШТ-РАВ">
+<price>1004</price>
+</offer>
+<offer id="КОНФИДОЛ-10МЛ-1ШТ-САЛ">
+<price>809</price>
+</offer>
+<offer id="КОНФИДОЛ-10МЛ-2ШТ-САЛ">
+<price>906</price>
+</offer>
+<offer id="КОНФИДОЛ-10МЛ-3ШТ-САЛ">
+<price>1004</price>
 </offer>
 </offers>
 </shop>
