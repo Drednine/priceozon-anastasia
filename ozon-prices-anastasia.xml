@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-15 19:32">
+<yml_catalog date="2025-11-15 19:47">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -1513,6 +1513,60 @@
 </offer>
 <offer id="02-УРАГАН-500-НОВЫЙ-2ШТ-ПДА">
 <price>1916</price>
+</offer>
+<offer id="ТЕРКА-МАЛ-1ШТ-ПДА">
+<price>780</price>
+</offer>
+<offer id="ТЕРКА-БОЛ-1ШТ-ПДА">
+<price>807</price>
+</offer>
+<offer id="ТЕРКА-КОНУС-1ШТ-ПДА">
+<price>897</price>
+</offer>
+<offer id="МЕШКИ-КРЕМ-S-1ШТ-ПДА">
+<price>276</price>
+</offer>
+<offer id="МЕШКИ-КРЕМ-M-1ШТ-ПДА">
+<price>293</price>
+</offer>
+<offer id="МЕШКИ-КРЕМ-L-1ШТ-ПДА">
+<price>299</price>
+</offer>
+<offer id="СЕРА-КОЛЛОИД-40ГР-1ШТ-РАВ">
+<price>149</price>
+</offer>
+<offer id="СЕРА-КОЛЛОИД-40ГР-1ШТ-САЛ">
+<price>149</price>
+</offer>
+<offer id="СЕРА-КОЛЛОИД-40ГР-1ШТ-ПДА">
+<price>149</price>
+</offer>
+<offer id="СЕРА-КОЛЛОИД-40ГР-3ШТ-РАВ">
+<price>181</price>
+</offer>
+<offer id="СЕРА-КОЛЛОИД-40ГР-3ШТ-САЛ">
+<price>181</price>
+</offer>
+<offer id="СЕРА-КОЛЛОИД-40ГР-3ШТ-ПДА">
+<price>181</price>
+</offer>
+<offer id="СЕРА-КОЛЛОИД-40ГР-5ШТ-РАВ">
+<price>212</price>
+</offer>
+<offer id="СЕРА-КОЛЛОИД-40ГР-5ШТ-САЛ">
+<price>212</price>
+</offer>
+<offer id="СЕРА-КОЛЛОИД-40ГР-5ШТ-ПДА">
+<price>212</price>
+</offer>
+<offer id="СЕРА-КОЛЛОИД-40ГР-10ШТ-РАВ">
+<price>284</price>
+</offer>
+<offer id="СЕРА-КОЛЛОИД-40ГР-10ШТ-САЛ">
+<price>284</price>
+</offer>
+<offer id="СЕРА-КОЛЛОИД-40ГР-10ШТ-ПДА">
+<price>284</price>
 </offer>
 </offers>
 </shop>
