@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-22 12:02">
+<yml_catalog date="2025-11-22 12:17">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -1606,6 +1606,54 @@
 </offer>
 <offer id="СВЕЧА-В-КОКОСЕ+СПРЕЙ-1ШТ-РАВ">
 <price>3758</price>
+</offer>
+<offer id="ДОХ-ВСЕХ-НАСЕК-100ГР-3ШТ-ПДА">
+<price>880</price>
+</offer>
+<offer id="ДОХ-ЛОВ-ТАР-6-2ШТ-ПДА">
+<price>665</price>
+</offer>
+<offer id="ДОХ-ВСЕХ-НАСЕК-20МЛ-1ШТ-ПДА">
+<price>207</price>
+</offer>
+<offer id="ДОХ-ЛОВ-ТАР-6-3ШТ-ПДА">
+<price>814</price>
+</offer>
+<offer id="ДОХ-ОТ-МУРАВ-100ГР-10ШТ-ПДА">
+<price>2123</price>
+</offer>
+<offer id="ДОХ-ОТ-ТАРАК-20МЛ-2ШТ-ПДА">
+<price>249</price>
+</offer>
+<offer id="ДОХ-ВСЕХ-НАСЕК-20МЛ-3ШТ-ПДА">
+<price>630</price>
+</offer>
+<offer id="ДОХ-ОТ-МУРАВ-100ГР-5ШТ-ПДА">
+<price>1222</price>
+</offer>
+<offer id="ДОХ-ВСЕХ-НАСЕК-100ГР-5ШТ-ПДА">
+<price>1222</price>
+</offer>
+<offer id="ДОХ-ЛОВ-ТАР-6-4ШТ-ПДА">
+<price>963</price>
+</offer>
+<offer id="ДОХ-ВСЕХ-НАСЕК-100ГР-10ШТ-ПДА">
+<price>2123</price>
+</offer>
+<offer id="ДОХ-ОТ-ТАРАК-20МЛ-1ШТ-ПДА">
+<price>197</price>
+</offer>
+<offer id="ДОХ-ЛОВ-ТАР-6-1ШТ-ПДА">
+<price>251</price>
+</offer>
+<offer id="ДОХ-ОТ-МУРАВ-100ГР-3ШТ-ПДА">
+<price>880</price>
+</offer>
+<offer id="ДОХ-ОТ-ТАРАК-20МЛ-3ШТ-ПДА">
+<price>586</price>
+</offer>
+<offer id="ДОХ-ВСЕХ-НАСЕК-20МЛ-2ШТ-ПДА">
+<price>270</price>
 </offer>
 </offers>
 </shop>
