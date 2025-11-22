@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-22 14:47">
+<yml_catalog date="2025-11-22 15:02">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -1657,6 +1657,42 @@
 </offer>
 <offer id="01-КАЛИПСО-10МЛ-ПДА">
 <price>961</price>
+</offer>
+<offer id="ОТ-ТЛИ-1,5МЛ-3ШТ-РАВ">
+<price>249</price>
+</offer>
+<offer id="ОТ-ТЛИ-1,5МЛ-1ШТ-РАВ">
+<price>176</price>
+</offer>
+<offer id="ОТ-КЛЕЩА-1,5МЛ-5ШТ-РАВ">
+<price>696</price>
+</offer>
+<offer id="ОТ-БЕЛОКРЫЛКИ-1,5МЛ-5ШТ-РАВ">
+<price>696</price>
+</offer>
+<offer id="ОТ-БЕЛОКРЫЛКИ-1,5МЛ-3ШТ-РАВ">
+<price>249</price>
+</offer>
+<offer id="ОТ-КЛЕЩА-1,5МЛ-2ШТ-РАВ">
+<price>213</price>
+</offer>
+<offer id="ОТ-КЛЕЩА-1,5МЛ-3ШТ-РАВ">
+<price>249</price>
+</offer>
+<offer id="ОТ-БЕЛОКРЫЛКИ-1,5МЛ-2ШТ-РАВ">
+<price>213</price>
+</offer>
+<offer id="ОТ-БЕЛОКРЫЛКИ-1,5МЛ-1ШТ-РАВ">
+<price>176</price>
+</offer>
+<offer id="ОТ-ТЛИ-1,5МЛ-5ШТ-РАВ">
+<price>696</price>
+</offer>
+<offer id="ОТ-КЛЕЩА-1,5МЛ-1ШТ-РАВ">
+<price>176</price>
+</offer>
+<offer id="ОТ-ТЛИ-1,5МЛ-2ШТ-РАВ">
+<price>213</price>
 </offer>
 </offers>
 </shop>
