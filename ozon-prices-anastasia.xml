@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-01 15:02">
+<yml_catalog date="2025-12-01 15:17">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -1774,6 +1774,24 @@
 </offer>
 <offer id="ТОЧИЛКА-4ЕХ-РЯД-1ШТ-ПДА">
 <price>257</price>
+</offer>
+<offer id="ЦИТОВИТ-100МЛ-1ШТ-РАВ">
+<price>1115</price>
+</offer>
+<offer id="ЦИТОВИТ-100МЛ-1ШТ-САЛ">
+<price>1115</price>
+</offer>
+<offer id="ЦИТОВИТ-100МЛ-1ШТ-ПДА">
+<price>1115</price>
+</offer>
+<offer id="ВЕРТИМЕК-10МЛ-3ШТ-РАВ">
+<price>1256</price>
+</offer>
+<offer id="ВЕРТИМЕК-10МЛ-5ШТ-РАВ">
+<price>1492</price>
+</offer>
+<offer id="ФАЛЬКОН-10МЛ-1ШТ-РАВ">
+<price>1049</price>
 </offer>
 </offers>
 </shop>
