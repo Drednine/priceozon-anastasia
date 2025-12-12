@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-12 08:47">
+<yml_catalog date="2025-12-12 09:02">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -1825,6 +1825,30 @@
 </offer>
 <offer id="СВЕЧА-ВАНИЛЬ-1ШТ-РАВ">
 <price>901</price>
+</offer>
+<offer id="ШТОПОР-1ШТ-ПДА">
+<price>940</price>
+</offer>
+<offer id="СКАЛКА-1ШТ-ПДА">
+<price>299</price>
+</offer>
+<offer id="ПЕРГАМЕНТ-БУМАГА-2ШТ-ПДА">
+<price>299</price>
+</offer>
+<offer id="ПЕРГАМЕНТ-БУМАГА-3ШТ-ПДА">
+<price>299</price>
+</offer>
+<offer id="ПЕРГАМЕНТ-БУМАГА-1ШТ-ПДА">
+<price>299</price>
+</offer>
+<offer id="МУСОР-МЕШКИ-1ШТ-ПДА">
+<price>299</price>
+</offer>
+<offer id="МУСОР-МЕШКИ-3ШТ-ПДА">
+<price>299</price>
+</offer>
+<offer id="МУСОР-МЕШКИ-2ШТ-ПДА">
+<price>299</price>
 </offer>
 </offers>
 </shop>
