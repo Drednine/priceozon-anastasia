@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-05 12:02">
+<yml_catalog date="2026-01-05 12:17">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -1894,6 +1894,24 @@
 </offer>
 <offer id="БИОГУМУС-УНИВЕРСАЛЬНЫЙ-3ШТ-РАВ">
 <price>889</price>
+</offer>
+<offer id="АГИТА-25ГР-2ШТ-РАВ">
+<price>299</price>
+</offer>
+<offer id="НИТРАФЕН-1000МЛ-1ШТ-РАВ">
+<price>1136</price>
+</offer>
+<offer id="НИТРАФЕН-1000МЛ-2ШТ-РАВ">
+<price>1374</price>
+</offer>
+<offer id="ДНОК-10ШТ-РАВ">
+<price>1032</price>
+</offer>
+<offer id="МОНАРХ-ТАР-1ГР-1ШТ-РАВ">
+<price>205</price>
+</offer>
+<offer id="МОНАРХ-ТАР-1ГР-2ШТ-РАВ">
+<price>260</price>
 </offer>
 </offers>
 </shop>
