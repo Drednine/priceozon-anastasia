@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-27 07:17">
+<yml_catalog date="2026-01-27 07:32">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -1914,7 +1914,7 @@
 <price>284</price>
 </offer>
 <offer id="БИОГУМУС-КОМНАТ-РАСТЕНИЙ-1ШТ-САЛ">
-<price>299</price>
+<price>253</price>
 </offer>
 <offer id="БИОГУМУС-КОМНАТ-РАСТЕНИЙ-2ШТ-САЛ">
 <price>757</price>
@@ -1923,7 +1923,7 @@
 <price>914</price>
 </offer>
 <offer id="БИОГУМУС-ОВОЩЕЙ-1ШТ-САЛ">
-<price>299</price>
+<price>253</price>
 </offer>
 <offer id="БИОГУМУС-ОВОЩЕЙ-2ШТ-САЛ">
 <price>757</price>
@@ -1932,7 +1932,7 @@
 <price>914</price>
 </offer>
 <offer id="БИОГУМУС-РАССАДЫ-1ШТ-САЛ">
-<price>299</price>
+<price>253</price>
 </offer>
 <offer id="БИОГУМУС-РАССАДЫ-2ШТ-САЛ">
 <price>757</price>
@@ -1941,7 +1941,7 @@
 <price>914</price>
 </offer>
 <offer id="БИОГУМУС-ЦВЕТОВ-1ШТ-САЛ">
-<price>299</price>
+<price>253</price>
 </offer>
 <offer id="БИОГУМУС-ЦВЕТОВ-2ШТ-САЛ">
 <price>757</price>
@@ -1950,7 +1950,7 @@
 <price>914</price>
 </offer>
 <offer id="БИОГУМУС-УНИВЕРСАЛЬНЫЙ-1ШТ-САЛ">
-<price>299</price>
+<price>253</price>
 </offer>
 <offer id="БИОГУМУС-УНИВЕРСАЛЬНЫЙ-2ШТ-САЛ">
 <price>757</price>
