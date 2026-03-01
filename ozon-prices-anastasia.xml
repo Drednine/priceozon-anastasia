@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-01 09:17">
+<yml_catalog date="2026-03-01 09:32">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -21,7 +21,7 @@
 <price>809</price>
 </offer>
 <offer id="01-ТОРНАДО-1000-РАВ">
-<price>4710</price>
+<price>4740</price>
 </offer>
 <offer id="05-ЯНТ-КИС-2ГР-5ШТ-РАВ">
 <price>258</price>
@@ -42,79 +42,79 @@
 <price>1794</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-10-РАВ">
-<price>1168</price>
+<price>1198</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-3-РАВ">
-<price>989</price>
+<price>1019</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-6-РАВ">
-<price>1096</price>
+<price>1126</price>
 </offer>
 <offer id="02-ГУМ-КАЛ-1000-2ШТ-РАВ">
 <price>1142</price>
 </offer>
 <offer id="01-РАУ-АП-НОВЫЙ-500-РАВ">
-<price>1270</price>
+<price>1300</price>
 </offer>
 <offer id="01-РАУ-АП-НОВЫЙ-1000-РАВ">
-<price>1583</price>
+<price>1612</price>
 </offer>
 <offer id="01-УРАГАН-100-РАВ">
-<price>1190</price>
+<price>1220</price>
 </offer>
 <offer id="01-УРАГАН-300-РАВ">
-<price>1170</price>
+<price>1200</price>
 </offer>
 <offer id="01-УРАГАН-50-РАВ">
-<price>1154</price>
+<price>1184</price>
 </offer>
 <offer id="01-РАУ-АП-СТАРЫЙ-1000-РАВ">
-<price>1926</price>
+<price>1956</price>
 </offer>
 <offer id="01-УРАГАН-500-НОВЫЙ-РАВ">
-<price>1618</price>
+<price>1648</price>
 </offer>
 <offer id="01-УРАГАН-1000-НОВЫЙ-РАВ">
-<price>2047</price>
+<price>2077</price>
 </offer>
 <offer id="15-АКТ-4Г-РАВ">
-<price>2179</price>
+<price>2209</price>
 </offer>
 <offer id="10-АКТ-4Г-РАВ">
-<price>1733</price>
+<price>1763</price>
 </offer>
 <offer id="03-АКТ-4Г-РАВ">
-<price>1622</price>
+<price>1664</price>
 </offer>
 <offer id="20-АКТ-4Г-РАВ">
-<price>2605</price>
+<price>2635</price>
 </offer>
 <offer id="01-РАУ-АП-ЭКС-50-РАВ">
-<price>990</price>
+<price>1020</price>
 </offer>
 <offer id="01-РАУ-АП-СТАРЫЙ-500-РАВ">
-<price>1494</price>
+<price>1524</price>
 </offer>
 <offer id="01-РАУ-АП-ЭКС-100-РАВ">
-<price>1190</price>
+<price>1220</price>
 </offer>
 <offer id="01-УРАГАН-500-СТАР-РАВ">
-<price>2306</price>
+<price>2336</price>
 </offer>
 <offer id="01-УРАГАН-1000-СТАР-РАВ">
-<price>3006</price>
+<price>3036</price>
 </offer>
 <offer id="05-ФУНДАЗОЛ-10ГР-5ШТ-РАВ">
-<price>972</price>
+<price>1002</price>
 </offer>
 <offer id="10-ФУНДАЗОЛ-10ГР-10ШТ-РАВ">
-<price>1082</price>
+<price>1112</price>
 </offer>
 <offer id="03-ФУНДАЗОЛ-10ГР-3ШТ-РАВ">
-<price>936</price>
+<price>966</price>
 </offer>
 <offer id="02-РАУ-АП-СТАРЫЙ-500-2ШТ-РАВ">
-<price>2061</price>
+<price>2091</price>
 </offer>
 <offer id="01-ГУМ-КАЛ-250-САЛ">
 <price>286</price>
@@ -135,7 +135,7 @@
 <price>809</price>
 </offer>
 <offer id="01-ТОРНАДО-1000-САЛ">
-<price>4710</price>
+<price>4740</price>
 </offer>
 <offer id="05-ЯНТ-КИС-2ГР-5ШТ-САЛ">
 <price>258</price>
@@ -156,112 +156,112 @@
 <price>1794</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-10-САЛ">
-<price>1168</price>
+<price>1198</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-3-САЛ">
-<price>989</price>
+<price>1019</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-6-САЛ">
-<price>1096</price>
+<price>1126</price>
 </offer>
 <offer id="02-ГУМ-КАЛ-1000-2ШТ-САЛ">
 <price>1142</price>
 </offer>
 <offer id="01-РАУ-АП-НОВЫЙ-500-САЛ">
-<price>1270</price>
+<price>1300</price>
 </offer>
 <offer id="01-РАУ-АП-НОВЫЙ-1000-САЛ">
-<price>1583</price>
+<price>1612</price>
 </offer>
 <offer id="01-УРАГАН-100-САЛ">
-<price>1190</price>
+<price>1220</price>
 </offer>
 <offer id="01-УРАГАН-300-САЛ">
-<price>1170</price>
+<price>1200</price>
 </offer>
 <offer id="01-УРАГАН-50-САЛ">
-<price>1154</price>
+<price>1184</price>
 </offer>
 <offer id="01-РАУ-АП-СТАРЫЙ-1000-САЛ">
-<price>1926</price>
+<price>1956</price>
 </offer>
 <offer id="01-УРАГАН-500-НОВЫЙ-САЛ">
-<price>1618</price>
+<price>1648</price>
 </offer>
 <offer id="01-УРАГАН-1000-НОВЫЙ-САЛ">
-<price>2047</price>
+<price>2077</price>
 </offer>
 <offer id="15-АКТ-4Г-САЛ">
-<price>2179</price>
+<price>2209</price>
 </offer>
 <offer id="10-АКТ-4Г-САЛ">
-<price>1733</price>
+<price>1763</price>
 </offer>
 <offer id="03-АКТ-4Г-САЛ">
-<price>1138</price>
+<price>1168</price>
 </offer>
 <offer id="20-АКТ-4Г-САЛ">
-<price>2605</price>
+<price>2635</price>
 </offer>
 <offer id="01-РАУ-АП-ЭКС-50-САЛ">
-<price>990</price>
+<price>1020</price>
 </offer>
 <offer id="01-РАУ-АП-СТАРЫЙ-500-САЛ">
-<price>1494</price>
+<price>1524</price>
 </offer>
 <offer id="01-РАУ-АП-ЭКС-100-САЛ">
-<price>1190</price>
+<price>1220</price>
 </offer>
 <offer id="01-УРАГАН-500-СТАР-САЛ">
-<price>2306</price>
+<price>2336</price>
 </offer>
 <offer id="01-УРАГАН-1000-СТАР-САЛ">
-<price>3006</price>
+<price>3036</price>
 </offer>
 <offer id="05-ФУНДАЗОЛ-10ГР-5ШТ-САЛ">
-<price>972</price>
+<price>1002</price>
 </offer>
 <offer id="10-ФУНДАЗОЛ-10ГР-10ШТ-САЛ">
-<price>1082</price>
+<price>1112</price>
 </offer>
 <offer id="03-ФУНДАЗОЛ-10ГР-3ШТ-САЛ">
-<price>936</price>
+<price>966</price>
 </offer>
 <offer id="02-РАУ-АП-СТАРЫЙ-500-2ШТ-САЛ">
-<price>2061</price>
+<price>2091</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-30-РАВ">
-<price>1761</price>
+<price>1791</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-50-РАВ">
-<price>2332</price>
+<price>2362</price>
 </offer>
 <offer id="02-УРАГАН-1000-НОВЫЙ-2ШТ-РАВ">
-<price>3153</price>
+<price>3183</price>
 </offer>
 <offer id="02-УРАГАН-500-НОВЫЙ-2ШТ-РАВ">
-<price>2310</price>
+<price>2340</price>
 </offer>
 <offer id="02-РАУ-АП-СТАРЫЙ-1000-2ШТ-РАВ">
-<price>2911</price>
+<price>2941</price>
 </offer>
 <offer id="02-РАУ-АП-НОВЫЙ-1000-2ШТ-РАВ">
-<price>2224</price>
+<price>2254</price>
 </offer>
 <offer id="02-РАУ-АП-НОВЫЙ-500-2ШТ-РАВ">
-<price>1614</price>
+<price>1643</price>
 </offer>
 <offer id="03-РАУ-АП-ЭКС-300-РАВ">
-<price>1755</price>
+<price>1784</price>
 </offer>
 <offer id="03-РАУ-АП-ЭКС-300-САЛ">
-<price>1755</price>
+<price>1784</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-30-САЛ">
-<price>1761</price>
+<price>1791</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-50-САЛ">
-<price>2332</price>
+<price>2362</price>
 </offer>
 <offer id="ТИУРАМ-100ГР-5ШТ-РАВ">
 <price>1638</price>
@@ -306,58 +306,58 @@
 <price>299</price>
 </offer>
 <offer id="БИОГАРД-1000-РАВ">
-<price>2111</price>
+<price>2141</price>
 </offer>
 <offer id="НАПАЛМ-500-РАВ">
-<price>1494</price>
+<price>1524</price>
 </offer>
 <offer id="НАПАЛМ-100-РАВ">
-<price>1058</price>
+<price>1087</price>
 </offer>
 <offer id="НАПАЛМ-1000-РАВ">
-<price>1926</price>
+<price>1956</price>
 </offer>
 <offer id="БИОГАРД-2000-РАВ">
-<price>3281</price>
+<price>3311</price>
 </offer>
 <offer id="03-СВИТЧ-20ГР-3ШТ-САЛ">
-<price>1071</price>
+<price>1100</price>
 </offer>
 <offer id="01-КАР-ФОС-10МЛ-САЛ">
-<price>930</price>
+<price>960</price>
 </offer>
 <offer id="01-КАЛИПСО-10МЛ-САЛ">
-<price>987</price>
+<price>1017</price>
 </offer>
 <offer id="РАУ-АП-НОВЫЙ-1000-2ШТ-САЛ">
-<price>2224</price>
+<price>2254</price>
 </offer>
 <offer id="02-БИО-ГАР-1000-2ШТ-САЛ">
-<price>3281</price>
+<price>3311</price>
 </offer>
 <offer id="02-УРАГАН-500-НОВЫЙ-2ШТ-САЛ">
-<price>2310</price>
+<price>2340</price>
 </offer>
 <offer id="02-УРАГАН-1000-НОВЫЙ-2ШТ-САЛ">
-<price>3153</price>
+<price>3183</price>
 </offer>
 <offer id="01-НАПАЛМ-1000-САЛ">
-<price>1926</price>
+<price>1956</price>
 </offer>
 <offer id="02-РАУ-АП-СТАРЫЙ-1000-2ШТ-САЛ">
-<price>2911</price>
+<price>2941</price>
 </offer>
 <offer id="РАУ-АП-НОВЫЙ-500-2ШТ-САЛ">
-<price>1614</price>
+<price>1643</price>
 </offer>
 <offer id="01-НАПАЛМ-500-САЛ">
-<price>1494</price>
+<price>1524</price>
 </offer>
 <offer id="01-НАПАЛМ-100-САЛ">
-<price>1058</price>
+<price>1087</price>
 </offer>
 <offer id="01-БИО-ГАР-1000-САЛ">
-<price>2111</price>
+<price>2141</price>
 </offer>
 <offer id="ЗМЕЕСТОП-1ШТ-РАВ">
 <price>1126</price>
@@ -378,31 +378,31 @@
 <price>2554</price>
 </offer>
 <offer id="РАУ-АП-НОВЫЙ-1000-РАВ">
-<price>1583</price>
+<price>1612</price>
 </offer>
 <offer id="РАУ-АП-НОВЫЙ-500-РАВ">
-<price>1270</price>
+<price>1300</price>
 </offer>
 <offer id="РАУ-АП-НОВЫЙ-500-2ШТ-РАВ">
-<price>1614</price>
+<price>1643</price>
 </offer>
 <offer id="РАУ-АП-НОВЫЙ-1000-2ШТ-РАВ">
-<price>2224</price>
+<price>2254</price>
 </offer>
 <offer id="РАУ-АП-СТАРЫЙ-500-2ШТ-РАВ">
-<price>2061</price>
+<price>2091</price>
 </offer>
 <offer id="РАУ-АП-50-РАВ">
-<price>990</price>
+<price>1020</price>
 </offer>
 <offer id="РАУ-АП-100-РАВ">
-<price>1190</price>
+<price>1220</price>
 </offer>
 <offer id="РАУ-АП-СТАРЫЙ-1000-РАВ">
-<price>1926</price>
+<price>1956</price>
 </offer>
 <offer id="РАУ-АП-СТАРЫЙ-500-РАВ">
-<price>1494</price>
+<price>1524</price>
 </offer>
 <offer id="ЭКОФУС-500-1ШТ-РАВ">
 <price>1130</price>
@@ -537,13 +537,13 @@
 <price>299</price>
 </offer>
 <offer id="ПОЛИКАРБАЦИН-20ГР-3ШТ-РАВ">
-<price>1062</price>
+<price>1092</price>
 </offer>
 <offer id="ПОЛИКАРБАЦИН-20ГР-5ШТ-РАВ">
-<price>1181</price>
+<price>1211</price>
 </offer>
 <offer id="ПОЛИКАРБАЦИН-20ГР-10ШТ-РАВ">
-<price>1500</price>
+<price>1530</price>
 </offer>
 <offer id="СГИНЬ-НАСЕК-50ГР-3ШТ-РАВ">
 <price>268</price>
@@ -573,28 +573,28 @@
 <price>1596</price>
 </offer>
 <offer id="ФИТОЦЕБ-16ГР-3ШТ-РАВ">
-<price>1151</price>
+<price>1181</price>
 </offer>
 <offer id="ФИТОЦЕБ-16ГР-5ШТ-РАВ">
-<price>1330</price>
+<price>1360</price>
 </offer>
 <offer id="ФИТОЦЕБ-16ГР-10ШТ-РАВ">
-<price>1799</price>
+<price>1829</price>
 </offer>
 <offer id="ЭПИН-ПЛЮС-50МЛ-1ШТ-РАВ">
 <price>1458</price>
 </offer>
 <offer id="ЭПИН-ЭКСТРА-50МЛ+ЦИРКОН-50МЛ-1ШТ-РАВ">
-<price>2503</price>
+<price>2533</price>
 </offer>
 <offer id="ЭПИН-ЭКСТРА-1МЛ+ЦИРКОН-1МЛ-3ШТ-РАВ">
-<price>1169</price>
+<price>1199</price>
 </offer>
 <offer id="ЭПИН-ЭКСТРА-1МЛ+ЦИРКОН-1МЛ-5ШТ-РАВ">
-<price>1381</price>
+<price>1411</price>
 </offer>
 <offer id="ЭПИН-ЭКСТРА-1МЛ+ЦИРКОН-1МЛ-10ШТ-РАВ">
-<price>1858</price>
+<price>1888</price>
 </offer>
 <offer id="ЭКОФУС-1000МЛ-1ШТ-РАВ">
 <price>1686</price>
@@ -840,19 +840,19 @@
 <price>1506</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-6-ПДА">
-<price>1064</price>
+<price>1093</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-30-ПДА">
-<price>1710</price>
+<price>1739</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-50-ПДА">
-<price>2265</price>
+<price>2294</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-3-ПДА">
-<price>961</price>
+<price>990</price>
 </offer>
 <offer id="01-АЛФ-КРОТ-10-ПДА">
-<price>1135</price>
+<price>1164</price>
 </offer>
 <offer id="ЗЕЛ-МЫЛ-250-1ШТ-РАВ">
 <price>248</price>
@@ -891,37 +891,37 @@
 <price>1548</price>
 </offer>
 <offer id="ПРЕПАРАТ-30ПЛЮС-1000МЛ-1ШТ-РАВ">
-<price>1798</price>
+<price>1827</price>
 </offer>
 <offer id="ПРЕПАРАТ-30ПЛЮС-1000МЛ-2ШТ-РАВ">
-<price>2654</price>
+<price>2684</price>
 </offer>
 <offer id="ПРЕПАРАТ-30ПЛЮС-500МЛ-1ШТ-РАВ">
-<price>1411</price>
+<price>1440</price>
 </offer>
 <offer id="ПРЕПАРАТ-30-1000МЛ-1ШТ+ПРЕПАРАТ-30-500МЛ-1ШТ-РАВ">
-<price>2281</price>
+<price>2311</price>
 </offer>
 <offer id="ПРЕПАРАТ-30ПЛЮС-1000МЛ-1ШТ-САЛ">
-<price>1798</price>
+<price>1827</price>
 </offer>
 <offer id="ПРЕПАРАТ-30ПЛЮС-1000МЛ-2ШТ-САЛ">
-<price>2654</price>
+<price>2684</price>
 </offer>
 <offer id="ПРЕПАРАТ-30ПЛЮС-500МЛ-1ШТ-САЛ">
-<price>1411</price>
+<price>1440</price>
 </offer>
 <offer id="ПРЕПАРАТ-30-1000МЛ-1ШТ+ПРЕПАРАТ-30-500МЛ-1ШТ-САЛ">
-<price>2281</price>
+<price>2311</price>
 </offer>
 <offer id="01-ТОРНАДО-1000-ПДА">
-<price>4573</price>
+<price>4602</price>
 </offer>
 <offer id="ПРЕПАРАТ-30ПЛЮС-1000МЛ-1ШТ-ПДА">
-<price>1745</price>
+<price>1774</price>
 </offer>
 <offer id="ПРЕПАРАТ-30ПЛЮС-500МЛ-1ШТ-ПДА">
-<price>1370</price>
+<price>1399</price>
 </offer>
 <offer id="НАТИСК-20МЛ-1ШТ-РАВ">
 <price>224</price>
@@ -978,76 +978,76 @@
 <price>695</price>
 </offer>
 <offer id="ЧИС-СТВОЛ-250МЛ-1ШТ-РАВ">
-<price>1108</price>
+<price>1138</price>
 </offer>
 <offer id="ЧИС-СТВОЛ-500МЛ-1ШТ-РАВ">
-<price>1196</price>
+<price>1226</price>
 </offer>
 <offer id="ЧИС-СТВОЛ-1000МЛ-1ШТ-РАВ">
-<price>1389</price>
+<price>1418</price>
 </offer>
 <offer id="ЧИС-СТВОЛ-250МЛ-1ШТ-САЛ">
-<price>1108</price>
+<price>1138</price>
 </offer>
 <offer id="ЧИС-СТВОЛ-500МЛ-1ШТ-САЛ">
-<price>1196</price>
+<price>1226</price>
 </offer>
 <offer id="ЧИС-СТВОЛ-1000МЛ-1ШТ-САЛ">
-<price>1389</price>
+<price>1418</price>
 </offer>
 <offer id="ЧИС-СТВОЛ-250МЛ-1ШТ-ПДА">
-<price>1076</price>
+<price>1105</price>
 </offer>
 <offer id="ЧИС-СТВОЛ-500МЛ-1ШТ-ПДА">
-<price>1161</price>
+<price>1190</price>
 </offer>
 <offer id="ЧИС-СТВОЛ-1000МЛ-1ШТ-ПДА">
-<price>1348</price>
+<price>1377</price>
 </offer>
 <offer id="ЧИС-СТВОЛ-1000МЛ-1ШТ+ЧИС-СТВОЛ-500МЛ-1ШТ-РАВ">
-<price>1657</price>
+<price>1687</price>
 </offer>
 <offer id="ЧИС-СТВОЛ-1000МЛ-1ШТ+ЧИС-СТВОЛ-500МЛ-1ШТ-САЛ">
-<price>1657</price>
+<price>1687</price>
 </offer>
 <offer id="ЧИС-СТВОЛ-1000МЛ-1ШТ+ЧИС-СТВОЛ-500МЛ-1ШТ-ПДА">
-<price>1609</price>
+<price>1638</price>
 </offer>
 <offer id="ЧИС-СТВОЛ-1000МЛ-1ШТ+ЧИС-СТВОЛ-1000МЛ-1ШТ-РАВ">
-<price>1836</price>
+<price>1866</price>
 </offer>
 <offer id="ЧИС-СТВОЛ-1000МЛ-1ШТ+ЧИС-СТВОЛ-1000МЛ-1ШТ-САЛ">
-<price>1836</price>
+<price>1866</price>
 </offer>
 <offer id="ЧИС-СТВОЛ-1000МЛ-1ШТ+ЧИС-СТВОЛ-1000МЛ-1ШТ-ПДА">
-<price>1783</price>
+<price>1812</price>
 </offer>
 <offer id="РАУ-НОВ-1000МЛ-1ШТ-САЛ">
-<price>1583</price>
+<price>1612</price>
 </offer>
 <offer id="РАУ-НОВ-500МЛ-1ШТ-САЛ">
-<price>1270</price>
+<price>1300</price>
 </offer>
 <offer id="РАУ-НОВ-500МЛ-2ШТ-САЛ">
-<price>1627</price>
+<price>1657</price>
 </offer>
 <offer id="РАУ-НОВ-1000МЛ-1ШТ-РАВ">
-<price>1583</price>
+<price>1612</price>
 </offer>
 <offer id="РАУ-НОВ-500МЛ-1ШТ-РАВ">
-<price>1270</price>
+<price>1300</price>
 </offer>
 <offer id="РАУ-НОВ-500МЛ-2ШТ-РАВ">
-<price>1627</price>
+<price>1657</price>
 </offer>
 <offer id="РАУ-АП-СТАРЫЙ-1000-САЛ">
-<price>1926</price>
+<price>1956</price>
 </offer>
 <offer id="РАУ-АП-СТАРЫЙ-500-САЛ">
-<price>1494</price>
+<price>1524</price>
 </offer>
 <offer id="РАУ-АП-СТАРЫЙ-500-2ШТ-САЛ">
-<price>2061</price>
+<price>2091</price>
 </offer>
 <offer id="МАЛ-ПЛА-МЫШ-3ШТ-РАВ">
 <price>257</price>
@@ -1278,22 +1278,22 @@
 <price>299</price>
 </offer>
 <offer id="ЗАЩИТ-КЛУБ-5ГР-2ШТ-ПДА">
-<price>973</price>
+<price>1002</price>
 </offer>
 <offer id="ЗАЩИТ-КЛУБ-5ГР-5ШТ-ПДА">
-<price>1147</price>
+<price>1176</price>
 </offer>
 <offer id="ЗАЩИТ-КЛУБ-5ГР-10ШТ-ПДА">
-<price>1437</price>
+<price>1466</price>
 </offer>
 <offer id="ЗАЩИТ-ТЕПЛИЦ-ОТ-БОЛЕЗ-5ГР-2ШТ-ПДА">
-<price>973</price>
+<price>1002</price>
 </offer>
 <offer id="ЗАЩИТ-ТЕПЛИЦ-ОТ-БОЛЕЗ-5ГР-5ШТ-ПДА">
-<price>1147</price>
+<price>1176</price>
 </offer>
 <offer id="ЗАЩИТ-ТЕПЛИЦ-ОТ-БОЛЕЗ-5ГР-10ШТ-ПДА">
-<price>1437</price>
+<price>1466</price>
 </offer>
 <offer id="БРЕФ-1ШТ-ПДА">
 <price>761</price>
@@ -1344,13 +1344,13 @@
 <price>684</price>
 </offer>
 <offer id="КОНФИДОЛ-10МЛ-1ШТ-ПДА">
-<price>973</price>
+<price>1002</price>
 </offer>
 <offer id="КОНФИДОЛ-10МЛ-2ШТ-ПДА">
-<price>1089</price>
+<price>1118</price>
 </offer>
 <offer id="КОНФИДОЛ-10МЛ-3ШТ-ПДА">
-<price>1205</price>
+<price>1234</price>
 </offer>
 <offer id="ДЕГОТЬ-500МЛ-1ШТ-РАВ">
 <price>927</price>
@@ -1470,49 +1470,49 @@
 <price>272</price>
 </offer>
 <offer id="КОНФИДОЛ-10МЛ-1ШТ-РАВ">
-<price>1002</price>
+<price>1032</price>
 </offer>
 <offer id="КОНФИДОЛ-10МЛ-2ШТ-РАВ">
-<price>1121</price>
+<price>1151</price>
 </offer>
 <offer id="КОНФИДОЛ-10МЛ-3ШТ-РАВ">
-<price>1241</price>
+<price>1271</price>
 </offer>
 <offer id="КОНФИДОЛ-10МЛ-1ШТ-САЛ">
-<price>1002</price>
+<price>1032</price>
 </offer>
 <offer id="КОНФИДОЛ-10МЛ-2ШТ-САЛ">
-<price>1121</price>
+<price>1151</price>
 </offer>
 <offer id="КОНФИДОЛ-10МЛ-3ШТ-САЛ">
-<price>1241</price>
+<price>1271</price>
 </offer>
 <offer id="01-УРАГАН-100-ПДА">
-<price>1156</price>
+<price>1185</price>
 </offer>
 <offer id="01-УРАГАН-300-ПДА">
-<price>1136</price>
+<price>1165</price>
 </offer>
 <offer id="01-УРАГАН-50-ПДА">
-<price>1121</price>
+<price>1150</price>
 </offer>
 <offer id="01-УРАГАН-500-НОВЫЙ-ПДА">
-<price>1572</price>
+<price>1600</price>
 </offer>
 <offer id="01-УРАГАН-1000-НОВЫЙ-ПДА">
-<price>1988</price>
+<price>2017</price>
 </offer>
 <offer id="01-УРАГАН-500-СТАР-ПДА">
-<price>2239</price>
+<price>2268</price>
 </offer>
 <offer id="01-УРАГАН-1000-СТАР-ПДА">
-<price>2919</price>
+<price>2948</price>
 </offer>
 <offer id="02-УРАГАН-1000-НОВЫЙ-2ШТ-ПДА">
-<price>3062</price>
+<price>3091</price>
 </offer>
 <offer id="02-УРАГАН-500-НОВЫЙ-2ШТ-ПДА">
-<price>2243</price>
+<price>2272</price>
 </offer>
 <offer id="ТЕРКА-МАЛ-1ШТ-ПДА">
 <price>943</price>
@@ -1656,7 +1656,7 @@
 <price>299</price>
 </offer>
 <offer id="01-КАЛИПСО-10МЛ-ПДА">
-<price>958</price>
+<price>987</price>
 </offer>
 <offer id="ОТ-ТЛИ-1,5МЛ-3ШТ-РАВ">
 <price>282</price>
@@ -1698,16 +1698,16 @@
 <price>3804</price>
 </offer>
 <offer id="РАУНДАП-НОВЫЙ-500МЛ-1ШТ-РАВ">
-<price>1270</price>
+<price>1300</price>
 </offer>
 <offer id="РАУНДАП-НОВЫЙ-500МЛ-2ШТ-РАВ">
-<price>1627</price>
+<price>1657</price>
 </offer>
 <offer id="РАУНДАП-НОВЫЙ-1000МЛ-1ШТ-РАВ">
-<price>1569</price>
+<price>1599</price>
 </offer>
 <offer id="РАУНДАП-НОВЫЙ-1000МЛ-2ШТ-РАВ">
-<price>2224</price>
+<price>2254</price>
 </offer>
 <offer id="НАТИСК-20МЛ-3ШТ-ПДА">
 <price>676</price>
@@ -1785,13 +1785,13 @@
 <price>1125</price>
 </offer>
 <offer id="ВЕРТИМЕК-10МЛ-3ШТ-РАВ">
-<price>1241</price>
+<price>1271</price>
 </offer>
 <offer id="ВЕРТИМЕК-10МЛ-5ШТ-РАВ">
-<price>1480</price>
+<price>1509</price>
 </offer>
 <offer id="ФАЛЬКОН-10МЛ-1ШТ-РАВ">
-<price>1032</price>
+<price>1062</price>
 </offer>
 <offer id="СВЕЧА-КОЖА-ДРЕВЕСИНА-1ШТ-РАВ">
 <price>969</price>
@@ -1899,13 +1899,13 @@
 <price>299</price>
 </offer>
 <offer id="НИТРАФЕН-1000МЛ-1ШТ-РАВ">
-<price>1151</price>
+<price>1181</price>
 </offer>
 <offer id="НИТРАФЕН-1000МЛ-2ШТ-РАВ">
-<price>1389</price>
+<price>1418</price>
 </offer>
 <offer id="ДНОК-10ШТ-РАВ">
-<price>1047</price>
+<price>1077</price>
 </offer>
 <offer id="МОНАРХ-ТАР-1ГР-1ШТ-РАВ">
 <price>220</price>
